@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Australia Radar</title>
+  <meta name="description" content="The state of the AI industry in Australia — markets, bids, investments and build-outs, by geography, across past, present and future.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128225;</text></svg>">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="brand">
+        <span class="brand-mark">📡</span>
+        <div>
+          <h1>AI Australia Radar</h1>
+          <p class="tagline">The state of the AI industry — by geography · past · now · future</p>
+        </div>
+      </div>
+      <div class="meta" id="last-updated"></div>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-screen="current" role="tab">Current Affairs</button>
+      <button class="tab" data-screen="pulse" role="tab">Pulse</button>
+      <button class="tab" data-screen="markets" role="tab">Markets &amp; Deals</button>
+      <button class="tab" data-screen="buildouts" role="tab">Build-outs</button>
+      <button class="tab" data-screen="papers" role="tab">White Papers</button>
+    </nav>
+  </header>
+
+  <section class="controls">
+    <div class="control-group" id="geo-chips" aria-label="Filter by geography"></div>
+    <div class="control-row">
+      <div class="control-group lens" id="horizon-lens" aria-label="Time lens">
+        <button class="chip lens-chip active" data-horizon="all">All time</button>
+        <button class="chip lens-chip" data-horizon="past">◂ Past</button>
+        <button class="chip lens-chip" data-horizon="now">● Now</button>
+        <button class="chip lens-chip" data-horizon="future">Future ▸</button>
+      </div>
+      <input type="search" id="search-box" placeholder="Search the radar…" aria-label="Search">
+    </div>
+  </section>
+
+  <main id="screen-root">
+    <div class="empty-state" id="loading">Scanning the radar…</div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Curated + auto-refreshed from public sources. Not investment advice.
+       Feed refreshes via GitHub Actions every 6 hours — see <code>scripts/fetch_feeds.py</code>.</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

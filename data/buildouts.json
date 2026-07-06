@@ -1,0 +1,163 @@
+{
+  "updated": "2026-07-06",
+  "note": "Hand-maintained register of AI / data-centre infrastructure build-outs by state. status: operational | construction | announced.",
+  "projects": [
+    {
+      "name": "AirTrunk SYD2 (Lane Cove West)",
+      "operator": "AirTrunk (Blackstone)",
+      "state": "NSW",
+      "location": "Sydney — Lane Cove West",
+      "capacity_mw": 158,
+      "status": "operational",
+      "horizon": "now",
+      "notes": "Largest operating data centre project in NSW.",
+      "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
+    },
+    {
+      "name": "Mayfield Energy Precinct Data Centre",
+      "operator": "TBC (precinct development)",
+      "state": "NSW",
+      "location": "Newcastle — Mayfield",
+      "capacity_mw": 1000,
+      "status": "announced",
+      "horizon": "future",
+      "notes": "Largest planned data centre project in NSW at 1 GW, anchoring the Hunter as a post-industrial AI energy precinct.",
+      "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
+    },
+    {
+      "name": "Western Sydney corridor (Eastern Creek / Kemps Creek)",
+      "operator": "Multiple — AirTrunk, NEXTDC, Amazon, Goodman, CDC",
+      "state": "NSW",
+      "location": "Western Sydney",
+      "capacity_mw": null,
+      "status": "construction",
+      "horizon": "now",
+      "notes": "One of the most active data centre precincts in Asia-Pacific. NSW pipeline overall: ~44 projects / 11.4 GW as of Q1 2026.",
+      "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
+    },
+    {
+      "name": "Microsoft hyperscale expansion (A$25bn national program)",
+      "operator": "Microsoft",
+      "state": "NSW",
+      "location": "Sydney + Melbourne + Canberra regions",
+      "capacity_mw": null,
+      "status": "construction",
+      "horizon": "future",
+      "notes": "Part of Microsoft's A$25bn AI infrastructure, security and skills commitment through 2029.",
+      "url": "https://news.microsoft.com/source/asia/features/investing-in-australias-ai-future/"
+    },
+    {
+      "name": "AWS expansion + 11 renewable energy projects",
+      "operator": "Amazon Web Services",
+      "state": "NSW",
+      "location": "Sydney region + solar/wind across NSW, QLD, VIC",
+      "capacity_mw": null,
+      "status": "construction",
+      "horizon": "future",
+      "notes": "A$20bn 2025–2029 program pairing data centre capacity with 11 renewable projects across three states.",
+      "url": "https://www.aboutamazon.com.au/news/aws/amazon-investment-australia-data-centre-infrastructure",
+      "also_states": ["QLD", "VIC"]
+    },
+    {
+      "name": "NEXTDC M-series (Melbourne)",
+      "operator": "NEXTDC",
+      "state": "VIC",
+      "location": "Melbourne CBD + Tullamarine",
+      "capacity_mw": 150,
+      "status": "construction",
+      "horizon": "now",
+      "notes": "Flagship Victorian AI-ready campuses; Victoria's data centre energy demand nearly doubled in the year to early 2026.",
+      "url": "https://www.nextdc.com/data-centres"
+    },
+    {
+      "name": "AirTrunk MEL1 (Derrimut)",
+      "operator": "AirTrunk (Blackstone)",
+      "state": "VIC",
+      "location": "Melbourne — Derrimut",
+      "capacity_mw": 130,
+      "status": "operational",
+      "horizon": "now",
+      "notes": "Hyperscale anchor for Melbourne's west.",
+      "url": "https://www.airtrunk.com/data-centres/"
+    },
+    {
+      "name": "Firmus 'Project Southgate' AI factories",
+      "operator": "Firmus Technologies",
+      "state": "TAS",
+      "location": "Launceston (TAS) + Melbourne (VIC)",
+      "capacity_mw": 300,
+      "status": "construction",
+      "horizon": "future",
+      "notes": "Hydro-powered immersion-cooled GPU campuses; US$505M raise (2026) funds expansion ahead of a mooted ASX IPO.",
+      "url": "https://ventureburn.com/firmus-raises-505m-to-expand-ai-data-centre-infrastructure/",
+      "also_states": ["VIC"]
+    },
+    {
+      "name": "CDC Canberra campuses (Fyshwick / Hume / Eastern Creek)",
+      "operator": "Canberra Data Centres (Infratil)",
+      "state": "ACT",
+      "location": "Canberra + Sydney",
+      "capacity_mw": null,
+      "status": "operational",
+      "horizon": "now",
+      "notes": "Sovereign-certified campuses hosting government and defence AI workloads; 7 projects in the NSW/ACT pipeline.",
+      "url": "https://www.cdcdatacentres.com.au/",
+      "also_states": ["NSW"]
+    },
+    {
+      "name": "NEXTDC B2/B3 (Brisbane)",
+      "operator": "NEXTDC",
+      "state": "QLD",
+      "location": "Brisbane — Fortitude Valley + CBD",
+      "capacity_mw": 63,
+      "status": "operational",
+      "horizon": "now",
+      "notes": "Queensland's AI-ready colocation anchor; further QLD capacity in NEXTDC's 8-project national pipeline.",
+      "url": "https://www.nextdc.com/data-centres"
+    },
+    {
+      "name": "NEXTDC P1/P2 (Perth)",
+      "operator": "NEXTDC",
+      "state": "WA",
+      "location": "Perth",
+      "capacity_mw": 26,
+      "status": "operational",
+      "horizon": "now",
+      "notes": "WA's main AI-capable colocation hub, positioned on subsea routes to Asia (and the Oman-Australia cable).",
+      "url": "https://www.nextdc.com/data-centres"
+    },
+    {
+      "name": "NEXTDC A1/A2 (Adelaide)",
+      "operator": "NEXTDC",
+      "state": "SA",
+      "location": "Adelaide",
+      "capacity_mw": 12,
+      "status": "operational",
+      "horizon": "now",
+      "notes": "Anchors SA's defence-and-space adjacent AI workloads (Lot Fourteen precinct ecosystem).",
+      "url": "https://www.nextdc.com/data-centres"
+    },
+    {
+      "name": "NEXTDC D1 (Darwin)",
+      "operator": "NEXTDC",
+      "state": "NT",
+      "location": "Darwin",
+      "capacity_mw": 10,
+      "status": "operational",
+      "horizon": "now",
+      "notes": "Edge/gateway facility on the Darwin–Jakarta–Singapore cable route; NT's beachhead for northern-Australia AI infrastructure.",
+      "url": "https://www.nextdc.com/data-centres"
+    },
+    {
+      "name": "IDA fast-track cohort — 15 projects, A$51.9bn",
+      "operator": "Multiple",
+      "state": "National",
+      "location": "Australia-wide",
+      "capacity_mw": null,
+      "status": "announced",
+      "horizon": "future",
+      "notes": "Projects endorsed by the Investment Delivery Authority (27 Mar 2026) for prioritised approvals — the federal fast lane for the AI build-out.",
+      "url": "https://www.ashurst.com/en/insights/australia-evolving-data-centre-landscape-policy-meets-pipeline/"
+    }
+  ]
+}
