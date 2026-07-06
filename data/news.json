@@ -1,0 +1,266 @@
+{
+  "updated": "2026-07-06T12:12:01+00:00",
+  "items": [
+    {
+      "id": "seed-nsw-pipeline",
+      "title": "NSW pipeline hits 44 data centre projects and 11.4 GW of planned power capacity",
+      "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/",
+      "source": "RenewMap",
+      "date": "2026-06-15",
+      "summary": "NSW: 46 operating and ~39–44 pipeline projects. Top developers by count: NEXTDC (8), Canberra Data Centres (7), Goodman (6). Largest operating: AirTrunk SYD2 (158 MW). Largest planned: Mayfield Energy Precinct (1,000 MW, Newcastle).",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-asx-dc-stocks",
+      "title": "ASX data centre trio (NEXTDC, Goodman, Infratil) ride the AI build-out",
+      "url": "https://australianstockreport.com.au/news-insights/australias-data-centre-boom-3-asx-data-centre-stocks-for-the-ai-buildout",
+      "source": "Australian Stock Report",
+      "date": "2026-06-01",
+      "summary": "Public-market read on the boom: the listed developers powering the AI revolution and how the A$155bn pipeline is being priced by the ASX.",
+      "categories": [
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-firmus-505m",
+      "title": "Firmus raises US$505M led by Coatue at a US$5.5B valuation; ASX IPO expected mid-2026",
+      "url": "https://ventureburn.com/firmus-raises-505m-to-expand-ai-data-centre-infrastructure/",
+      "source": "Ventureburn",
+      "date": "2026-05-20",
+      "summary": "Tasmanian-founded AI data centre operator Firmus (hydro-powered 'AI factory' campuses in Tasmania and Victoria) raises US$505M to expand; a mid-2026 listing could be one of the largest recent Australian tech IPOs.",
+      "categories": [
+        "investments",
+        "buildouts",
+        "markets"
+      ],
+      "geography": [
+        "TAS",
+        "VIC"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-westpac-155b",
+      "title": "Westpac IQ: Australia's data centre investment pipeline exceeds A$155 billion",
+      "url": "https://www.westpaciq.com.au/economics/2026/05/australian-AI-data-bulletin-2026",
+      "source": "Westpac IQ",
+      "date": "2026-05-05",
+      "summary": "Pipeline now equals ~5.6% of one year's GDP. Deployable capacity expected to more than double from ~1,350 MW (2024) to 3,100+ MW by 2030, requiring ~A$26bn of new investment.",
+      "categories": [
+        "markets",
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "curated": true
+    },
+    {
+      "id": "seed-msft-25b",
+      "title": "Microsoft commits A$25 billion to Australian AI infrastructure, security and skills by 2029",
+      "url": "https://news.microsoft.com/source/asia/features/investing-in-australias-ai-future/",
+      "source": "Microsoft / CNBC",
+      "date": "2026-04-23",
+      "summary": "Microsoft's largest-ever Australian commitment: A$25bn (≈US$18bn) in new digital and AI infrastructure by end of 2029, expanding its hyperscale footprint and skilling programs.",
+      "categories": [
+        "investments",
+        "buildouts"
+      ],
+      "geography": [
+        "National",
+        "NSW",
+        "VIC"
+      ],
+      "horizon": "future",
+      "curated": true
+    },
+    {
+      "id": "seed-disr-expectations",
+      "title": "Canberra sets national expectations for data centre and AI infrastructure developers",
+      "url": "https://www.industry.gov.au/publications/expectations-data-centres-and-ai-infrastructure-developers",
+      "source": "Dept of Industry, Science and Resources",
+      "date": "2026-04-01",
+      "summary": "New national expectations covering energy, water, community benefit and sovereignty form the 'social licence to operate' for developers — the rulebook for every build-out on this feed.",
+      "categories": [
+        "policy",
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-ida-51b",
+      "title": "Investment Delivery Authority fast-tracks 15 data centre projects worth A$51.9 billion",
+      "url": "https://www.ashurst.com/en/insights/australia-evolving-data-centre-landscape-policy-meets-pipeline/",
+      "source": "Ashurst",
+      "date": "2026-03-27",
+      "summary": "The IDA endorsed 15 data centre projects worth A$51.9bn for prioritised government support through the approvals process — the clearest federal signal yet behind the AI build-out.",
+      "categories": [
+        "buildouts",
+        "policy",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-ussc-grid",
+      "title": "USSC: Powering the cloud — data centres and the future of Australia's grid",
+      "url": "https://www.ussc.edu.au/powering-the-cloud-data-centres-and-the-future-of-australias-grid",
+      "source": "United States Studies Centre",
+      "date": "2026-03-01",
+      "summary": "Analysis of the collision between the AI build-out and the energy transition: where the grid can host GW-scale campuses, and where it can't.",
+      "categories": [
+        "buildouts",
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "curated": true
+    },
+    {
+      "id": "seed-dta-procurement",
+      "title": "DTA overhauls government AI policy: new AI Impact Assessment Tool and procurement guidance",
+      "url": "https://www.dta.gov.au/media-releases/ai-policy-overhauled-new-impact-assessment-tool-and-procurement-guidance",
+      "source": "Digital Transformation Agency",
+      "date": "2026-02-15",
+      "summary": "Updated Policy for the Responsible Use of AI in Government plus step-by-step AI procurement guidance (Plan–Source–Manage). Shapes every Commonwealth AI tender and PO from here on.",
+      "categories": [
+        "bids",
+        "policy"
+      ],
+      "geography": [
+        "National",
+        "ACT"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-vic-plan",
+      "title": "Victoria releases Sustainable Data Centre Action Plan as demand nearly doubles",
+      "url": "https://www.climatecouncil.org.au/what-does-the-data-centre-boom-mean-for-australias-switch-to-renewables/",
+      "source": "Victorian Government / Climate Council",
+      "date": "2026-02-10",
+      "summary": "Victoria's data centre energy demand almost doubled in 12 months; the February 2026 action plan sets sustainability rules while Invest Victoria courts AI infrastructure.",
+      "categories": [
+        "policy",
+        "buildouts"
+      ],
+      "geography": [
+        "VIC"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-defence-google",
+      "title": "Defence signs Deed of Standing Offer with Google Australia",
+      "url": "https://www.tendersgo.com/post/australia-government-tenders-2026-sovereign-cloud-sme-opportunities-0124",
+      "source": "AusTender / trade press",
+      "date": "2025-12-18",
+      "summary": "The Department of Defence solidified a standing-offer arrangement with Google Australia — one of a run of sovereign-cloud and AI deeds reshaping federal procurement in 2026.",
+      "categories": [
+        "bids",
+        "markets"
+      ],
+      "geography": [
+        "ACT",
+        "National"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-openai-7b",
+      "title": "OpenAI announces A$7 billion Australian investment",
+      "url": "https://www.industry.gov.au/news",
+      "source": "Australian Government / press",
+      "date": "2025-12-10",
+      "summary": "Australia announced a A$7bn investment from OpenAI, part of the post-National-AI-Plan wave of global capital targeting Australian compute and AI capability.",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-national-ai-plan",
+      "title": "Australia publishes its National AI Plan",
+      "url": "https://www.industry.gov.au/publications/national-ai-plan",
+      "source": "Dept of Industry, Science and Resources",
+      "date": "2025-12-02",
+      "summary": "Three goals, nine actions: build smart infrastructure, back domestic AI capability and attract global investment, and spread the benefits through adoption, skills and better public services. Government projects AI and automation could add up to A$600bn a year to GDP by 2030.",
+      "categories": [
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "curated": true
+    },
+    {
+      "id": "seed-aws-20b",
+      "title": "Amazon to invest A$20 billion in Australian data centre infrastructure (2025–2029)",
+      "url": "https://www.aboutamazon.com.au/news/aws/amazon-investment-australia-data-centre-infrastructure",
+      "source": "Amazon",
+      "date": "2025-06-15",
+      "summary": "AWS pledges A$20bn through 2029 to expand Australian data centre capacity, backed by 11 renewable energy projects across NSW, Queensland and Victoria.",
+      "categories": [
+        "investments",
+        "buildouts"
+      ],
+      "geography": [
+        "NSW",
+        "QLD",
+        "VIC"
+      ],
+      "horizon": "future",
+      "curated": true
+    },
+    {
+      "id": "seed-airtrunk-blackstone",
+      "title": "Blackstone completes ~A$24 billion acquisition of AirTrunk",
+      "url": "https://www.airtrunk.com/news/",
+      "source": "AirTrunk / press",
+      "date": "2024-12-11",
+      "summary": "The largest data centre transaction in APAC history: Blackstone and CPP Investments acquire Sydney-headquartered AirTrunk, validating Australia as a global AI-infrastructure market.",
+      "categories": [
+        "markets",
+        "investments"
+      ],
+      "geography": [
+        "NSW",
+        "National"
+      ],
+      "horizon": "past",
+      "curated": true
+    }
+  ]
+}
