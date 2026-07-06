@@ -1,0 +1,243 @@
+{
+  "updated": "2026-07-06",
+  "note": "Hand-maintained, sourced key figures for the Australian AI industry end to end. Update values in place; keep source + as_of with every figure.",
+  "sections": [
+    {
+      "title": "Power & the grid",
+      "blurb": "What the AI build-out draws from the National Electricity Market — the binding constraint on the whole sector.",
+      "tiles": [
+        {
+          "label": "Data centre electricity use, FY2024–25",
+          "value": "4 TWh",
+          "context": "≈2% of all electricity in the NEM today.",
+          "source": "AEMO",
+          "source_url": "https://www.aemo.com.au/newsroom/news-updates/digital-demand-surge",
+          "as_of": "2025"
+        },
+        {
+          "label": "Forecast demand by 2030",
+          "value": "12 TWh",
+          "delta": "3× today · ~6% of the NEM",
+          "context": "AEMO expects data centre demand to triple by 2030.",
+          "source": "AEMO",
+          "source_url": "https://www.aemo.com.au/newsroom/news-updates/digital-demand-surge",
+          "as_of": "2025"
+        },
+        {
+          "label": "Forecast demand by 2050",
+          "value": "34 TWh",
+          "context": "≈12% of NEM power by 2049–50 under the Step Change scenario.",
+          "source": "AEMO / Oxford Economics",
+          "source_url": "https://www.aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2024/2025-iasr-scenarios/final-docs/oxford-economics-australia-data-centre-energy-consumption-report.pdf",
+          "as_of": "2025"
+        },
+        {
+          "label": "Forecast annual growth in consumption",
+          "value": "25.1%",
+          "context": "Average yearly growth in data centre electricity use to FY2030.",
+          "source": "Oxford Economics (for AEMO)",
+          "source_url": "https://www.aemo.com.au/-/media/files/stakeholder_consultation/consultations/nem-consultations/2024/2025-iasr-scenarios/final-docs/oxford-economics-australia-data-centre-energy-consumption-report.pdf",
+          "as_of": "2025"
+        },
+        {
+          "label": "'Phantom demand' in connection requests",
+          "value": "6 of 7 MW",
+          "context": "Share of early-stage grid connection requests expected never to materialise — read pipeline GW with this discount.",
+          "source": "Oxford Economics",
+          "source_url": "https://www.oxfordeconomics.com/resource/estimating-data-centre-phantom-demand/",
+          "as_of": "2025"
+        }
+      ]
+    },
+    {
+      "title": "Capacity & footprint",
+      "blurb": "Installed capacity, the pipeline behind it, and where it physically sits.",
+      "tiles": [
+        {
+          "label": "Occupied capacity, 2025",
+          "value": "1,315 MW",
+          "delta": "40× in 20 years (37 MW in 2005)",
+          "context": "Built-out national capacity of ~2 GW is projected to reach ~9.5 GW by the early 2030s.",
+          "source": "M3 Property",
+          "source_url": "https://www.theindustrialist.com.au/news/2025/11/24/australia%E2%80%99s-data-centre-sector-expands-fortyfold-past-20-years-m3-property",
+          "as_of": "2025-11"
+        },
+        {
+          "label": "Data centres nationally",
+          "value": "≈270",
+          "context": "Sydney (91) and Melbourne (51) hold more than half the sites and ~80% of national capacity.",
+          "source": "M3 Property / industry counts",
+          "source_url": "https://www.theindustrialist.com.au/news/2025/11/24/australia%E2%80%99s-data-centre-sector-expands-fortyfold-past-20-years-m3-property",
+          "as_of": "2025-11"
+        },
+        {
+          "label": "NSW development pipeline",
+          "value": "11.4 GW",
+          "context": "44 projects in the NSW pipeline as of Q1 2026 — the largest of any state.",
+          "source": "RenewMap",
+          "source_url": "https://renewmap.com.au/resources/projects/nsw/datacentre/",
+          "as_of": "2026-03"
+        },
+        {
+          "label": "Victoria development pipeline",
+          "value": "9 GW",
+          "context": "At least 30 data centres in the Victorian pipeline; ~90 more nationally.",
+          "source": "Climate Council",
+          "source_url": "https://www.climatecouncil.org.au/what-does-the-data-centre-boom-mean-for-australias-switch-to-renewables/",
+          "as_of": "2026"
+        },
+        {
+          "label": "National vacancy rate",
+          "value": "9%",
+          "delta": "vs 21% long-term average",
+          "context": "Melbourne is among the tightest markets globally at 4–5% — capacity is effectively pre-sold.",
+          "source": "PwC / m3property",
+          "source_url": "https://www.pwc.com.au/real-estate/data-centre-valuation.html",
+          "as_of": "2025-11"
+        }
+      ]
+    },
+    {
+      "title": "Compute density",
+      "blurb": "Australia doesn't publish national GPU or memory (HBM/DRAM) stock figures — rack power density and MW are the tracked proxies for AI compute and memory demand.",
+      "tiles": [
+        {
+          "label": "AI / GPU rack power density",
+          "value": "80–100 kW",
+          "delta": "vs 5–10 kW legacy racks",
+          "context": "AI training racks draw 10–20× the power of traditional enterprise racks — the reason every MW figure on this page is exploding.",
+          "source": "A&O Shearman",
+          "source_url": "https://www.aoshearman.com/en/insights/data-centre-projects-in-australia-the-race-to-prioritisation-accelerating-ai-workloads",
+          "as_of": "2026"
+        },
+        {
+          "label": "Operational AI-era capacity by 2035",
+          "value": "2.2–3.2 GW",
+          "context": "Expected operational data centre capacity by 2035, up from ~0.3 GW of AI-class load in 2024–25.",
+          "source": "CEFC",
+          "source_url": "https://www.cefc.com.au/media/hs5ner3s/getting-the-balance-right-data-centres-and-the-energy-transition-full-report.pdf",
+          "as_of": "2025-12"
+        }
+      ]
+    },
+    {
+      "title": "Water",
+      "blurb": "The other physical input — cooling water is becoming a licensing issue in Sydney first.",
+      "tiles": [
+        {
+          "label": "Sydney data centre water use",
+          "value": "3.5 GL/yr",
+          "context": "Current drinking-water draw; Sydney Water has single-site applications for up to 40 ML/day (16 Olympic pools).",
+          "source": "Sydney Water / WSAA",
+          "source_url": "https://wsaa.asn.au/Common/Uploaded%20files/library/report/WSAA%20Data%20Centres%20and%20water%20in%20Australia%20-%20December%202025.pdf",
+          "as_of": "2025-12"
+        },
+        {
+          "label": "Share of city water supply",
+          "value": "0.7%",
+          "delta": "Sydney · Melbourne 0.2%",
+          "context": "Small today, but Sydney Water scenarios reach up to 25% of supply by 2035 without recycled-water requirements.",
+          "source": "WSAA",
+          "source_url": "https://wsaa.asn.au/Common/Uploaded%20files/library/report/WSAA%20Data%20Centres%20and%20water%20in%20Australia%20-%20December%202025.pdf",
+          "as_of": "2025-12"
+        }
+      ]
+    },
+    {
+      "title": "Money",
+      "blurb": "What the build-out and the wider AI market are worth.",
+      "tiles": [
+        {
+          "label": "Data centre investment pipeline",
+          "value": "A$155bn+",
+          "context": "≈5.6% of one year's GDP; ~A$26bn of new investment needed for capacity to double by 2030.",
+          "source": "Westpac IQ",
+          "source_url": "https://www.westpaciq.com.au/economics/2026/05/australian-AI-data-bulletin-2026",
+          "as_of": "2026-05"
+        },
+        {
+          "label": "Cost to commission capacity",
+          "value": "A$9–14M / MW",
+          "context": "Per-megawatt commissioning cost (Oxford Economics for AusNet); implies A$20bn+ for the near-term build alone.",
+          "source": "Oxford Economics / AusNet",
+          "source_url": "https://www.aer.gov.au/system/files/2025-12/ASD%20-%20Oxford%20Economics%20Australia%20-%20Data%20Centre%20Forecast%20-%20Nov%202025%20-%20PUBLIC.pdf",
+          "as_of": "2025-11"
+        },
+        {
+          "label": "IDA fast-track cohort",
+          "value": "A$51.9bn",
+          "context": "15 data centre projects endorsed for prioritised federal approvals (27 Mar 2026).",
+          "source": "Ashurst",
+          "source_url": "https://www.ashurst.com/en/insights/australia-evolving-data-centre-landscape-policy-meets-pipeline/",
+          "as_of": "2026-03"
+        },
+        {
+          "label": "Australian IT spending, 2026",
+          "value": "A$172.3bn",
+          "context": "Driven by the corporate rush into AI, cyber security and cloud.",
+          "source": "Gartner via Computer Weekly",
+          "source_url": "https://www.computerweekly.com/news/366630422/AI-boom-to-push-Australian-IT-spending-past-A172bn",
+          "as_of": "2026"
+        },
+        {
+          "label": "Potential GDP contribution by 2030",
+          "value": "A$600bn/yr",
+          "context": "Government projection for AI and automation, cited in the National AI Plan.",
+          "source": "Australian Government",
+          "source_url": "https://www.industry.gov.au/publications/national-ai-plan",
+          "as_of": "2025-12"
+        }
+      ]
+    },
+    {
+      "title": "Industry & adoption",
+      "blurb": "The demand side: who is building, hiring and using AI in Australia.",
+      "tiles": [
+        {
+          "label": "AI businesses in Australia",
+          "value": "958",
+          "delta": "+7.0% CAGR 2020–25",
+          "context": "Domestic AI industry market size ≈A$2.6bn in 2026.",
+          "source": "IBISWorld",
+          "source_url": "https://www.ibisworld.com/australia/number-of-businesses/artificial-intelligence/5562/",
+          "as_of": "2026"
+        },
+        {
+          "label": "Australians using AI tools monthly",
+          "value": "58%",
+          "delta": "13.6M people aged 14+",
+          "context": "Q1 2026 — Australian consumer gen-AI adoption outpaces the US and UK.",
+          "source": "Roy Morgan via roi.com.au",
+          "source_url": "https://roi.com.au/blog/stats/ai-usage-adoption-statistics-in-australia-2026",
+          "as_of": "2026-03"
+        },
+        {
+          "label": "Employers with AI-mentioning job ads",
+          "value": "8.5%",
+          "delta": "up from 5.8% a year earlier",
+          "context": "43% of software-dev and data-analytics postings now mention AI — the highest of any occupation.",
+          "source": "Indeed Hiring Lab",
+          "source_url": "https://www.hiringlab.org/au/blog/2026/04/01/nothing-artificial-about-australian-ai-adoption/",
+          "as_of": "2026-04"
+        },
+        {
+          "label": "SMEs adopting AI",
+          "value": "40%",
+          "delta": "+5 pts quarter on quarter",
+          "context": "Small and medium enterprise adoption, Q1 2026.",
+          "source": "roi.com.au adoption round-up",
+          "source_url": "https://roi.com.au/blog/stats/ai-usage-adoption-statistics-in-australia-2026",
+          "as_of": "2026-03"
+        },
+        {
+          "label": "Organisations using AI",
+          "value": ">50%",
+          "context": "Per the Austrade/CSIRO Australian AI Industry Capability Report.",
+          "source": "Austrade / CSIRO",
+          "source_url": "https://www.austrade.gov.au/en/how-we-can-help-you/trade-and-investment-publications",
+          "as_of": "2025"
+        }
+      ]
+    }
+  ]
+}

@@ -4,6 +4,7 @@ const STATES = ["National", "NSW", "VIC", "QLD", "WA", "SA", "TAS", "ACT", "NT"]
 
 const SCREEN_INTROS = {
   current: "What is happening right now in Australian AI — the live feed across investment, procurement, infrastructure and policy.",
+  pulse: "The key numbers, end to end: power, capacity, compute density, water, money and adoption. Every figure is sourced and dated.",
   markets: "The serious end of the market: bids, tenders, purchase orders, government procurement, capital raises, investments and M&A.",
   buildouts: "Who is building what, where — AI and data-centre infrastructure state by state, from operational campuses to the announced pipeline.",
   papers: "White papers, roadmaps and reports that are still worth reading — the long-term context behind the daily feed."
@@ -19,17 +20,22 @@ const state = {
   news: [],
   buildouts: [],
   papers: [],
+  stats: [],
+  statsUpdated: null,
   updated: null
 };
 
 /* ---------- data loading ---------- */
 
 async function loadData() {
-  const [news, builds, papers] = await Promise.all([
+  const [news, builds, papers, stats] = await Promise.all([
     fetch("data/news.json").then(r => r.json()),
     fetch("data/buildouts.json").then(r => r.json()),
-    fetch("data/whitepapers.json").then(r => r.json())
+    fetch("data/whitepapers.json").then(r => r.json()),
+    fetch("data/stats.json").then(r => r.json())
   ]);
+  state.stats = stats.sections || [];
+  state.statsUpdated = stats.updated;
   state.news = (news.items || []).slice().sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   state.buildouts = builds.projects || [];
   state.papers = (papers.papers || []).slice().sort((a, b) => b.year - a.year);
@@ -172,10 +178,51 @@ function paperCard(p) {
   return card;
 }
 
+function statTile(t) {
+  const tile = el("article", "stat-tile");
+  tile.append(el("p", "stat-label", t.label));
+  const val = el("p", "stat-value", t.value);
+  tile.append(val);
+  if (t.delta) tile.append(el("p", "stat-delta", t.delta));
+  if (t.context) tile.append(el("p", "stat-context", t.context));
+  const src = el("p", "stat-source");
+  const a = el("a", null, t.source);
+  a.href = t.source_url; a.target = "_blank"; a.rel = "noopener";
+  src.append(a);
+  if (t.as_of) src.append(document.createTextNode(" · " + t.as_of));
+  tile.append(src);
+  return tile;
+}
+
+function renderPulse(root) {
+  for (const section of state.stats) {
+    const sec = el("section", "state-section");
+    const header = el("div", "state-header");
+    header.append(el("h2", null, section.title));
+    sec.append(header);
+    if (section.blurb) sec.append(el("p", "screen-intro", section.blurb));
+    const grid = el("div", "stat-grid");
+    (section.tiles || []).forEach(t => grid.append(statTile(t)));
+    sec.append(grid);
+    root.append(sec);
+  }
+  if (state.statsUpdated) {
+    root.append(el("p", "screen-intro", "Figures last reviewed " + state.statsUpdated +
+      ". Hand-maintained in data/stats.json — each tile keeps its source and as-of date."));
+  }
+}
+
 function render() {
   const root = document.getElementById("screen-root");
   root.innerHTML = "";
   root.append(el("p", "screen-intro", SCREEN_INTROS[state.screen]));
+
+  // Pulse is a stats dashboard — geography/time filters don't apply.
+  document.querySelector(".controls").style.display = state.screen === "pulse" ? "none" : "";
+  if (state.screen === "pulse") {
+    renderPulse(root);
+    return;
+  }
 
   const items = visibleItems();
   if (!items.length) {

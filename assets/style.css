@@ -138,6 +138,21 @@ main { max-width: 1080px; margin: 1.25rem auto 3rem; padding: 0 1.25rem; }
 
 .empty-state { color: var(--ink-soft); text-align: center; padding: 3rem 0; font-size: .95rem; }
 
+/* Pulse — stat tiles */
+.stat-grid { display: grid; gap: .85rem; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); }
+.stat-tile {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  padding: 1rem 1.1rem; box-shadow: var(--shadow);
+  display: flex; flex-direction: column; gap: .3rem;
+}
+.stat-label { margin: 0; font-size: .78rem; color: var(--ink-soft); }
+.stat-value { margin: 0; font-size: 1.9rem; font-weight: 600; letter-spacing: -.01em; line-height: 1.1; }
+.stat-delta { margin: 0; font-size: .78rem; font-weight: 600; color: var(--accent); }
+.stat-context { margin: .1rem 0 0; font-size: .82rem; color: var(--ink-soft); flex: 1; }
+.stat-source { margin: .2rem 0 0; font-size: .72rem; color: var(--ink-soft); }
+.stat-source a { color: var(--ink-soft); }
+.stat-source a:hover { color: var(--accent); }
+
 .site-footer {
   border-top: 1px solid var(--line);
   color: var(--ink-soft); font-size: .78rem;
