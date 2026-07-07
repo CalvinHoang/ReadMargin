@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T14:00:12+00:00",
+  "updated": "2026-07-07T19:28:56+00:00",
   "items": [
     {
       "title": "Australia news live: government starts assessing risks of frontier AI models; Richard White steps down as WiseTech chair - The Guardian",
@@ -559,6 +559,97 @@
       ],
       "horizon": "now",
       "id": "gn-business-owner-peter-leondis-shares-how-ai-tool-impacted-his-business-the-greek"
+    },
+    {
+      "title": "The Mind I Said AI Didn't Have - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXJsOHo1bFFnMEw3aV9DSFJEM0FTLVFJeDNwRERfcVpXNUdYRTAtZW5QRDNKVmY0UUlOWmhQbTkzZ2NrNUE5aUFIZG9YLWJfdF9pQm13Ti1BVUJaVGtUS040a2RMVEVCTHV0elhXWlU3eTEwczQxTU1rOFVOcjVsMlU0YWo4VVNINGFPdkttTDJfUG5QTGdzYw?oc=5",
+      "source": "Psychology Today",
+      "date": "2026-07-07",
+      "summary": "The Mind I Said AI Didn't Have &nbsp;&nbsp; Psychology Today",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-the-mind-i-said-ai-didn-t-have-psychology-today"
+    },
+    {
+      "title": "Philosophy of Mind Cannot Explain Artificial Intelligence - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSTZwakItak81V0huT1AzMGpVdk5xUXhUdFVFOWVibXJlMDB5S3A2RGUzc25kQXhyZFZYaHZ4SkJ5OU16RHNnMHQtMTFhOU5mX2NMNS1aaGtYQTRWeUt0WlgwQXBVbnJVLVdMb0pTNmU0Smw2YlNCVmNQbmZNVzd3RTY4VkVNYTEycnN6ZTV5aWJiaXc0S0JOT2tHRmFFSEc4bERkUHlHUS1DdDlrVFFGRVZ5YjBrNS1Sa041N2Nn?oc=5",
+      "source": "Psychology Today",
+      "date": "2026-07-07",
+      "summary": "Philosophy of Mind Cannot Explain Artificial Intelligence &nbsp;&nbsp; Psychology Today",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-philosophy-of-mind-cannot-explain-artificial-intelligence-psychology-today"
+    },
+    {
+      "title": "Cognitive Surrender Meets Moral Surrender: On AI and Ethics - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUlEVDdzaHVXVTg0Tmh3MnVEcnl6RVZaV041dEFwX0JjOUhsT0VpaW1MVGdvV3JuZ0J0YUowWFdSa0ktbW5WNkpfd3NnN0hyYUVUNTVBYm84WDNTdWVteGdoLWtzTzhyQXhLQmtydWNBT0VTcGwyUlFXcWJVMzg3blZtZlNQZENNUVhsc28zQVhMc1FLblYyMnNRX2s3UnQzRjlMNHBQMXdCTExGZGJueDlYcDRZVmJQVWd3MFAzLU53d3BkbFdjQ05kOA?oc=5",
+      "source": "Psychology Today",
+      "date": "2026-07-07",
+      "summary": "Cognitive Surrender Meets Moral Surrender: On AI and Ethics &nbsp;&nbsp; Psychology Today",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-cognitive-surrender-meets-moral-surrender-on-ai-and-ethics-psychology-today"
+    },
+    {
+      "title": "Embedding AI + Data to Transform Investment Workflows - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHVGMk1JNU1KcWtNNTQ0N0ZzeVJBTEwxOWhmbFJlcWdjS1pvczlCZTdXMzExZDZWWWY3YWZnTmI5WXB2Qzg5N0k2S2VmN3JsWVIwMHdNNlpjaUdpNm5nbzZ3eFM1cy1vMFMwSUZRRElkclBfckpjaXUxVEN1Y0x0QjhYSW5HWERScTFmUTR3Y2tIUFAtdnpYa0RTNmFPdU9PYm10cG54Mlp5eU40NkNWaXM5S0todW9xa1BjcmVn?oc=5",
+      "source": "Morningstar",
+      "date": "2026-07-07",
+      "summary": "Embedding AI + Data to Transform Investment Workflows &nbsp;&nbsp; Morningstar",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-embedding-ai-data-to-transform-investment-workflows-morningstar"
+    },
+    {
+      "title": "Physical AI emerges as Wall Street's next AI trade: stocks to consider - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVJhLWxGR3Q5WExlb3BzRlFWS2hqNUpXR1l1VWttTDd1R0c2elRkblNBR0l3VUhBb3BfRUU4VldMT0xCOVdMakRoUzNNMW1MRU0xVlF5ZHBlS1NYbGFXOXR2TEtvXzBXTmkxa0tnT1dZbnF3d3U3WHJ3UVNYX0o5UHhzaHpBSXBQdUJ5TC00NUY1WElEZTd4MHdkUXdGX3VZUmY4NktTbjJuVXc?oc=5",
+      "source": "Invezz",
+      "date": "2026-07-07",
+      "summary": "Physical AI emerges as Wall Street's next AI trade: stocks to consider &nbsp;&nbsp; Invezz",
+      "categories": [
+        "investments",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-physical-ai-emerges-as-wall-street-s-next-ai-trade-stocks-to-consider-invezz"
+    },
+    {
+      "title": "RBA flags data centre boom as new threat in inflation fight - AFR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVgwSzJvRDBoNnJONmhhbXpPSWdGdUlOaGtwRUxySnFRd245U0gtZTFMUmhNdUs1YVhtTVdQdEF3eEFHLXo2VVY2UnRKdGxJaDVJNDYxYXlzNzhhNlNSZUg2ZENOY1gtbXQtdFgzX2hIQ1Z1UjFLUzRNS1dwQWtpM01QTU9MSHlzZ0hWaFlBNGlHZm5OZktrVTQ3ZUlzU2wzbkpiYWlsRFVnR2VJVVZZ?oc=5",
+      "source": "AFR",
+      "date": "2026-07-07",
+      "summary": "RBA flags data centre boom as new threat in inflation fight &nbsp;&nbsp; AFR",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-rba-flags-data-centre-boom-as-new-threat-in-inflation-fight-afr"
     },
     {
       "title": "Bosses warn on ‘heavy-handed’ union AI role - The Australian",
@@ -1270,6 +1361,21 @@
       "id": "gn-ai-on-the-sly-more-aussies-are-using-chatbots-for-work-the-canberra-times"
     },
     {
+      "title": "‘Bad manners’: Bernard Fanning on AI robbing Australian music - InDaily Queensland",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXU2LWlGNmhQdGd5bndZRUt6bklpT2VzUGdGQ3JCMk1PQnpOODBnckNUc2I1QXJVVnowZmtMYlBDYnhmTlNyOGZMNi15eklWWlFBVDU3TGZ0Q1gtdEsyVmhBUDRZQlh6ZzduR3pGMEdTQjhab210aGlGNjQ5all0Q3R3?oc=5",
+      "source": "InDaily Queensland",
+      "date": "2026-07-06",
+      "summary": "‘Bad manners’: Bernard Fanning on AI robbing Australian music &nbsp;&nbsp; InDaily Queensland",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "QLD"
+      ],
+      "horizon": "now",
+      "id": "gn-bad-manners-bernard-fanning-on-ai-robbing-australian-music-indaily-queensland"
+    },
+    {
       "title": "Doctors’ soaring use of AI scribes prompts Australian government warning over privacy - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcU80UU9YM1BOZnZBeHY1UHBNZklxM0NlNG90Ui1BV1FDd3ZVdU56QnVjSEFTWV9GdzY1MW9vOFB2dmR5Vkd4S3h1OFAyUFlzUEZPNHVSdDNWRmdBc0c5QUdiVjJVaGhqMFRGNDhrY3lkZ2lzSUY1eFRmSmxYV3duby1ieTBaNkJjVXNkYkNfcXFqT2hLTlZYczhfYmxsa3ZVZkZoOE1maVdzNkcxNmJN?oc=5",
       "source": "The Guardian",
@@ -1724,6 +1830,22 @@
       ],
       "horizon": "now",
       "id": "gn-firmus-offers-to-pay-full-price-to-soothe-ai-power-panic-the-australian"
+    },
+    {
+      "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUg5TlRhR0haSFVBdGlqY3Q0enBDVjBUOG1SaWRUeDhYcU1iMlFnUXlJZU83b01zWG1LYzVia1d0eFlqY2kxOUtiNFk4eWI4QnlOSlhSN0l1bGJhczhOaWF6UWpRQmc1cmFrSnVNUTNvQVZqMmdHRFlZTTlIS2xnTXZFbFh3YWpEZzNzdXBCcTNuYzBzUGd0Tmx2dHVFYVNzcHd3RS14d2JwOVc0OFFEWW9ncUN4N0FEQm93OGE4Y2podFg5enM2NnI2T3ZNVGNkSVE?oc=5",
+      "source": "The Guardian",
+      "date": "2026-07-02",
+      "summary": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’ &nbsp;&nbsp; The Guardian",
+      "categories": [
+        "buildouts",
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-creatives-sound-alarm-on-copyright-as-pocock-calls-50bn-datacentre-proposal-ulti"
     },
     {
       "title": "Neural Notes: The US keeps proving it can switch off Australia’s AI - SmartCompany",
@@ -3330,6 +3452,22 @@
       "id": "gn-communities-speak-out-against-vast-ai-data-centre-expansion-green-left"
     },
     {
+      "title": "Australia AI Infrastructure Investment Accelerates - asbf.org.au",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFpIWmVaSl9NdXF5a1hyMmR0ZlBBS0RhTzlyQk1Jak5MMGU5Mk1kQmRTcElRVjJMSkpob1ZXLXJXVmo3dWdKNTVzQzZKMVNoX0g3NWZpbVJHODZPVVZud3FVWWNxVHRHUWM1N1FsbVJGOTJnckIxWHFTVC1QejM2eGJB?oc=5",
+      "source": "asbf.org.au",
+      "date": "2026-06-10",
+      "summary": "Australia AI Infrastructure Investment Accelerates &nbsp;&nbsp; asbf.org.au",
+      "categories": [
+        "buildouts",
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-ai-infrastructure-investment-accelerates-asbf-org-au"
+    },
+    {
       "title": "Digital Futures and Artificial Intelligence - James Cook University",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGRIVUNUTFFNZWtWbDBxa2RWQjZCUGJjRXJ6bkZDRlJtWVpkUzNnaC1Kb3gtMmZlcHNiNkVrOS1oOUJ5S0dNdTJBVGFjaE93YlNXS255RnhrOEFlTVVLaTZyajJxaTk1V2NVdFNMUGN3QzhadlNsaXl3Z3F1SEJYbkVBdTZwN1djWkhXZi1ZeVgtQ1laZ3ZfQQ?oc=5",
       "source": "James Cook University",
@@ -3648,144 +3786,6 @@
       ],
       "horizon": "now",
       "id": "gn-australia-s-data-centre-construction-boom-eclipses-spending-on-new-homes-realest"
-    },
-    {
-      "title": "US AI firm to build Australia’s biggest data centre in SA - Energy Source & Distribution",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQl9ZUDV0T2VkT1hRTzdWNVpYVFVpZ0h0V21kTzdPNC1Ib213WHZxR1luUVNTVzFCelc3UmlMcU1aM2F0VUpBVVJDdDNEUktxQlloSkNLOFZkdUFTUG9rQ0xHdzJPMEJUSHRpelRvc0Jtc3hSWVM5WFFjbEJ3c2Z3ei1ZOHZBS00?oc=5",
-      "source": "Energy Source & Distribution",
-      "date": "2026-06-05",
-      "summary": "US AI firm to build Australia’s biggest data centre in SA &nbsp;&nbsp; Energy Source & Distribution",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-us-ai-firm-to-build-australia-s-biggest-data-centre-in-sa-energy-source-distribu"
-    },
-    {
-      "title": "Cheque in: 7 startups kicked off June raising $17 million - Startup Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWd6dmhURzR1bXFBWERZZk1WR3p3dVRyZndRVnU3UF9wZmh1bzZlOFlYWGM2U1NUQm5CdW43bm1ZaURCUXFCWEkwbWVCRF9fLVJSQlNpTjc4UG5SMG9oeWEtdTdOSTFhaXN4b0ItRzdpeFo2ekZKMkVuNGJzSk04TlJ2NHVuQldQSy01UUt4S21EU1k3OEwzM0p5R2t3NGc0?oc=5",
-      "source": "Startup Daily",
-      "date": "2026-06-05",
-      "summary": "Cheque in: 7 startups kicked off June raising $17 million &nbsp;&nbsp; Startup Daily",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-cheque-in-7-startups-kicked-off-june-raising-17-million-startup-daily"
-    },
-    {
-      "title": "Market-first global AI investment trust AIX clears minimum subscription, eyes $350 million raising - AdviserVoice",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdnZCVEx4X3cxVXhQdGxES2xsYTdyQVJUS2VtWTRNdzVVNmVPbjFTZkN3LV82Y3VjZUswaDFXaklhTDlOZlVsazVIM1NwN3FnOFdGZmxnQU5vZHYxYmRuRHg3VTU0N2NNYy1sNUFIbjZla1VPem1oNlRscmhkMTI4TTlCTzkta1VlNXgwUGdVUGt5Rk5TSGxBS19zb2RfeFlGN1BYcEtEcFpFLXN1d28xU1UwOGFuRmJPRlRURTAxTjVQUzFOb3p3Z0VLZkUyWUs2Rko0?oc=5",
-      "source": "AdviserVoice",
-      "date": "2026-06-04",
-      "summary": "Market-first global AI investment trust AIX clears minimum subscription, eyes $350 million raising &nbsp;&nbsp; AdviserVoice",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-market-first-global-ai-investment-trust-aix-clears-minimum-subscription-eyes-350"
-    },
-    {
-      "title": "AI giant chooses Australia’s first 100 pct (net) renewable grid to build country’s biggest data... - Renew Economy",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXNMUXI3cEE4LU9aX2Y5S0pPYnB1MGk3d1QzV2VKYjFXOWlmNUhzUEF6MW1pZmJPb0RybDhaekFhNUFIOUh1MmVuTUpUOGp6RXpLc205T1d6ZUJNVzl5WENtNGZlWGZLcTFMR18tMzdEcmhtWjZvNXUwaDRlUUtWVjRqMEtpUW9mMVNoSmtWRC1ZOHh1NUZvNWpwaFNuSzNQVnBvLWIwYmtMQ01ZUTFQQ28xZGh1NC1ZTDlmYWhlMlRLdkFU0gHKAUFVX3lxTE9zdmc5VmN0aktfRDlaYVJrdGJhZlBWUzBYdUVKYVhTU0RQUTR3UWtVNS15V0t0WFlQX1hCdHpjdEVxeVFROVN2dFZwWTR6Q2JCT1JsWVVaMDFUZ2E5ZWt3M2NBa0dGay1lM0ZRRXZ4N2wxMGM2dUJxUmRNSkk1QXUySWlOeXdtUEhpeGtuVmM2Qm41ZjY1OVhYaFVjbDYyYTkwV3JlaWxkQ0UyUWNYY0FZUnZQa00xWVI5LVljQW5YU2QtN2wxS1E4RFE?oc=5",
-      "source": "Renew Economy",
-      "date": "2026-06-04",
-      "summary": "AI giant chooses Australia’s first 100 pct (net) renewable grid to build country’s biggest data... &nbsp;&nbsp; Renew Economy",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-ai-giant-chooses-australia-s-first-100-pct-net-renewable-grid-to-build-country-s"
-    },
-    {
-      "title": "Australia to host Asia-Pacific’s biggest data centre - Michael West Media",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWE5iYWtWV1cteVVMTWV4REtCc3Nsbl9ZZlhQbDBPTGJKem1ZcVgxbWJaeml1NWlaai1LTjZ6MG5hbDA4TGVjaGVhdW9UempJbnVDZWkxbWNfbzJVXy1CMzNpd3RjdGwzRUhpOHA2TDJ5Y0hpUlFKQXg0SXp3Ni01SXlrU2w5QQ?oc=5",
-      "source": "Michael West Media",
-      "date": "2026-06-04",
-      "summary": "Australia to host Asia-Pacific’s biggest data centre &nbsp;&nbsp; Michael West Media",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-to-host-asia-pacific-s-biggest-data-centre-michael-west-media"
-    },
-    {
-      "title": "How IREN found a home for its latest data centre in the empty plains of South Australia - Capital Brief",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVE5FSmFubjdpNG1OVDhRVXFvRU5fNURsb3pBY1M0MmFPU1JTMkVRTFlZVkNHQ0Uyb1V4bzdaTHpXSFk4WEltcEVXcjA0bUI2TGh2bUxqWnFkemR2QmRnZWUwNGVWUG5FQk11MG1rRm9GUEl6bzBQWGRyUHJmX3V3emZEV0lEc2tpeDk3YzZyQkJpMUlIR1AwM1hnUmpYLTBzdzdhQUZ3M1FSdDE5ckFtN09TazlEUlhMVlJrQ2FGTFp5ekRDQzNQeDh5QTFCb1piYXNmWWVxTl9KS04ySThMS2Rabmsza2ttbk5MdE9Zay0xVlZN?oc=5",
-      "source": "Capital Brief",
-      "date": "2026-06-04",
-      "summary": "How IREN found a home for its latest data centre in the empty plains of South Australia &nbsp;&nbsp; Capital Brief",
-      "categories": [
-        "buildouts",
-        "investments"
-      ],
-      "geography": [
-        "SA"
-      ],
-      "horizon": "now",
-      "id": "gn-how-iren-found-a-home-for-its-latest-data-centre-in-the-empty-plains-of-south-au"
-    },
-    {
-      "title": "Not regulation. Not even oversight. Trump’s AI order won’t be enough - The Strategist | ASPI's analysis and commentary site",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWZvZ2Z4aVFLVURpV1dXZExVT1UzMkVkeDJ6Ql9oV3g1UjdhRTJhNjllbHpoSnpSQWRydlNnT0NlVlVpQXhsZ0RGYm5MR0M4eGhmX0xhdXlJMnNhdXQ1eWx3OU5ObjRLR1M2VkxIWGh1SENPR2FiajhoOEVaTUdvSjh0S0JMZDJSSDl0ODdlaTJmUUIwWDlNdHREd2hZVDFh?oc=5",
-      "source": "The Strategist | ASPI's analysis and commentary site",
-      "date": "2026-06-03",
-      "summary": "Not regulation. Not even oversight. Trump’s AI order won’t be enough &nbsp;&nbsp; The Strategist | ASPI's analysis and commentary site",
-      "categories": [
-        "policy"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-not-regulation-not-even-oversight-trump-s-ai-order-won-t-be-enough-the-strategis"
-    },
-    {
-      "title": "Predictability as power: Australia’s advantage in the AI infrastructure race - The Strategist | ASPI's analysis and commentary site",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGdacUQzdVpMeDlTME55WFZFV2d1SDRVcVlOUlAxanY2Z0xtZEpNNVdMNWtyYzhOR19FT2dZVUY2SF93bUd4UnB0ekVKMXdSNVBLS1Y5OHdJOUM0b2xqMlh4WlBiXzBlcmNiX2R1NnlBcGZzTnR6Wm8zWVpEY3RsZ1p3RDlrNExYTVRDRHY4aF82bGVjNUJDS1dqYW8yUFhNWTJzaG8xZ1puRlVjX2c?oc=5",
-      "source": "The Strategist | ASPI's analysis and commentary site",
-      "date": "2026-06-03",
-      "summary": "Predictability as power: Australia’s advantage in the AI infrastructure race &nbsp;&nbsp; The Strategist | ASPI's analysis and commentary site",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-predictability-as-power-australia-s-advantage-in-the-ai-infrastructure-race-the"
-    },
-    {
-      "title": "Australia’s economy slows as households tighten their belts, while AI investment surges - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjd5X29tTUVvaXctbVBjckdfZlp2SUpnWTdZbmtqOEpqT21tTEwtY1R4UXV1SVBIRWFxT2JDd2ZCbENSdmJJVmdTWUN2UmtyWXJYOHhHR2U5cnIzOVdRVWxiNy1mTzBtbXBCMnYzY3B6ZGVoSTVKRm0xcjdNV21ya1pTYk9CT2ZmVzZMODV5cGcxZ2lyUWxSdjJUYjhqdFVfNThlT3FMczA3SFl4ZDAyS3RuU2w4MHpKblp5cw?oc=5",
-      "source": "The Conversation",
-      "date": "2026-06-03",
-      "summary": "Australia’s economy slows as households tighten their belts, while AI investment surges &nbsp;&nbsp; The Conversation",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-economy-slows-as-households-tighten-their-belts-while-ai-investment"
     },
     {
       "id": "seed-asx-dc-stocks",
