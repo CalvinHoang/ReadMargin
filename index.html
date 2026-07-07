@@ -4,51 +4,46 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI Australia Radar</title>
-  <meta name="description" content="The state of the AI industry in Australia — markets, bids, investments and build-outs, by geography, across past, present and future.">
+  <meta name="description" content="A reading digest of the AI industry — energy, infrastructure, chips, models and applications — in economic and investment detail, through an Australian lens.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128225;</text></svg>">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
   <header class="masthead">
     <div class="masthead-inner">
-      <div class="brand">
-        <span class="brand-mark">📡</span>
-        <div>
-          <h1>AI Australia Radar</h1>
-          <p class="tagline">The state of the AI industry — by geography · past · now · future</p>
-        </div>
-      </div>
-      <div class="meta" id="last-updated"></div>
+      <p class="dateline" id="dateline"></p>
+      <h1 class="brand">AI Australia Radar</h1>
+      <p class="tagline">A reading digest of the AI industry — from the grid to the application layer, through an Australian lens</p>
     </div>
-    <nav class="tabs" role="tablist">
-      <button class="tab active" data-screen="current" role="tab">Current Affairs</button>
-      <button class="tab" data-screen="pulse" role="tab">Pulse</button>
+    <nav class="tabs" role="tablist" aria-label="Screens">
+      <button class="tab active" data-screen="briefing" role="tab">Briefing</button>
       <button class="tab" data-screen="markets" role="tab">Markets &amp; Deals</button>
-      <button class="tab" data-screen="buildouts" role="tab">Build-outs</button>
-      <button class="tab" data-screen="papers" role="tab">White Papers</button>
+      <button class="tab" data-screen="pulse" role="tab">Pulse</button>
+      <button class="tab" data-screen="foundations" role="tab">Foundations</button>
     </nav>
   </header>
 
-  <section class="controls">
-    <div class="control-group" id="geo-chips" aria-label="Filter by geography"></div>
+  <section class="controls" id="controls">
     <div class="control-row">
-      <div class="control-group lens" id="horizon-lens" aria-label="Time lens">
-        <button class="chip lens-chip active" data-horizon="all">All time</button>
-        <button class="chip lens-chip" data-horizon="past">◂ Past</button>
-        <button class="chip lens-chip" data-horizon="now">● Now</button>
-        <button class="chip lens-chip" data-horizon="future">Future ▸</button>
+      <div class="chip-row" id="layer-chips" aria-label="Filter by value-chain layer"></div>
+      <div class="control-right">
+        <div class="chip-row scope" id="scope-toggle" aria-label="Scope">
+          <button class="chip active" data-scope="all">All</button>
+          <button class="chip" data-scope="au">Australia</button>
+          <button class="chip" data-scope="global">Global</button>
+        </div>
+        <input type="search" id="search-box" placeholder="Search…" aria-label="Search">
       </div>
-      <input type="search" id="search-box" placeholder="Search the radar…" aria-label="Search">
     </div>
   </section>
 
   <main id="screen-root">
-    <div class="empty-state" id="loading">Scanning the radar…</div>
+    <div class="empty-state" id="loading">Assembling the briefing…</div>
   </main>
 
   <footer class="site-footer">
-    <p>Curated + auto-refreshed from public sources. Not investment advice.
-       Feed refreshes via GitHub Actions every 6 hours — see <code>scripts/fetch_feeds.py</code>.</p>
+    <p>Curated + auto-refreshed from public sources every 6 hours (<code>scripts/fetch_feeds.py</code>).
+       Deep-analysis sources are ranked above wire news. Not investment advice.</p>
   </footer>
 
   <script src="assets/app.js"></script>

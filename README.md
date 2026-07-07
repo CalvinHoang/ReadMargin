@@ -1,23 +1,29 @@
 # AI Australia Radar
 
-A news feed and intelligence dashboard on the **state of the AI industry in Australia** — by geography, and across time (past · now · future).
+A **reading digest of the AI industry** — energy, infrastructure, chips, models and the application layer — in economic and investment detail, through an Australian lens.
 
-## What it tracks
+The purpose: read it daily and come away understanding *how the industry works*, not just what happened. Deep analysis is ranked above wire news.
 
-| Screen | What's on it |
+## The value chain
+
+Every article is tagged with a **layer** of the stack, and the briefing walks the stack in order:
+
+| Layer | The economic question |
 |---|---|
-| **Current Affairs** | The live feed: what is happening right now in Australian AI |
-| **Markets & Deals** | Serious markets — bids, tenders, purchase orders, government procurement, investments, M&A |
-| **Build-outs** | AI/data-centre infrastructure build-outs, state by state (NSW, VIC, QLD, WA, SA, TAS, ACT, NT) with status: operational, under construction, announced |
-| **White Papers** | Older white papers, roadmaps and policy reports that are still relevant — the long-term context |
+| **Energy** | Can the grid supply the load, at what price? (AEMO, PPAs, renewables) |
+| **Infrastructure** | Who is building data centres, at what capex? (NEXTDC, AirTrunk, CDC, hyperscalers) |
+| **Chips** | Who gets silicon, at what price? (NVIDIA, TSMC, export controls) |
+| **Models** | What does intelligence cost to train and serve? (frontier labs, API pricing) |
+| **Applications** | Where does AI actually earn revenue? (enterprise adoption, productivity, startups) |
 
-Every item is tagged with a **geography** (a state/territory or National) and a **time horizon**:
+Articles are also tagged with a **scope** (Australia / Global — global items are kept only when they matter to the Australian picture) and cross-tags (economics, investment, policy).
 
-- **Past** — history and context that still matters
-- **Now** — current affairs
-- **Future** — announced pipeline, forecasts, things not yet built
+## Screens
 
-Use the state chips and the Past / Now / Future lens at the top of any screen to slice the feed.
+- **Briefing** — the front page: top reads ranked by depth + recency, then each layer of the stack in order. Filter by layer or scope, search everything. The Infrastructure layer includes the hand-maintained build-out register.
+- **Markets & Deals** — investment flows: raises, M&A, procurement, market moves.
+- **Pulse** — the key numbers end to end, every figure sourced and dated.
+- **Foundations** — evergreen reading per layer that explains the economics. Start here.
 
 ## Running it
 
@@ -32,9 +38,12 @@ Or enable **GitHub Pages** on this repo (Settings → Pages → deploy from bran
 
 ## How the feed stays fresh
 
-- `data/news.json` — the feed. Seeded with curated, sourced items; refreshed automatically.
-- `scripts/fetch_feeds.py` — pulls Google News RSS queries scoped to Australian AI topics (investment, tenders/procurement, data-centre build-outs, policy), tags each item by category and state, dedupes, and merges into `data/news.json`. Standard library only — no dependencies.
-- `.github/workflows/refresh-feed.yml` — runs the fetcher every 6 hours and commits changes.
+`scripts/fetch_feeds.py` (standard library only) refreshes `data/news.json` from two tiers of sources:
+
+1. **Deep-analysis publishers** via direct RSS — SemiAnalysis, Epoch AI, Construction Physics, Uptime Institute, The Next Platform, Data Center Dynamics, plus Australian outlets (InnovationAus, iTnews, RenewEconomy, The Conversation). These carry a depth weight that ranks them above wire news.
+2. **Targeted Google News queries per layer**, written for economic substance (capex, pricing, supply) rather than headline volume.
+
+Each item is classified into a layer, scoped Australia/Global, cross-tagged, and scored for depth. `.github/workflows/refresh-feed.yml` runs it every 6 hours and commits changes.
 
 Run a refresh manually:
 
@@ -42,9 +51,10 @@ Run a refresh manually:
 python3 scripts/fetch_feeds.py
 ```
 
-## Curated registers (hand-maintained)
+## Curated data (hand-maintained)
 
-- `data/buildouts.json` — the infrastructure register: who is building what, where, how many MW, and at what stage.
-- `data/whitepapers.json` — the white-paper library: reports worth keeping even as they age.
+- `data/foundations.json` — the evergreen library: what to read to understand each layer, and what each piece teaches.
+- `data/buildouts.json` — the infrastructure register: who is building what, where, how many MW, at what stage.
+- `data/stats.json` — the Pulse figures, each with source and as-of date.
 
-Both are meant to be edited by hand (or by asking Claude) as the landscape moves — pull requests welcome.
+All three are meant to be edited by hand (or by asking Claude) as the landscape moves — pull requests welcome.

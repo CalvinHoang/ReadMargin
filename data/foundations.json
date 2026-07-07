@@ -1,0 +1,159 @@
+{
+  "updated": "2026-07-06",
+  "note": "Hand-curated evergreen reading per value-chain layer. 'teaches' says what you understand about the industry's economics after reading it.",
+  "entries": [
+    {
+      "title": "Energy and AI",
+      "publisher": "International Energy Agency",
+      "year": 2025,
+      "url": "https://www.iea.org/reports/energy-and-ai",
+      "layer": "energy",
+      "scope": "global",
+      "teaches": "The definitive baseline on how much electricity AI actually uses and will use — data-centre demand curves, grid constraints, and why energy is becoming the binding constraint on the whole stack."
+    },
+    {
+      "title": "How to Build an AI Data Center",
+      "publisher": "Construction Physics (Brian Potter)",
+      "year": 2024,
+      "url": "https://www.construction-physics.com/p/how-to-build-an-ai-data-center",
+      "layer": "energy",
+      "scope": "global",
+      "teaches": "The physical and economic anatomy of an AI data centre — power, cooling, construction timelines and cost structure — explained from first principles."
+    },
+    {
+      "title": "Electricity Statement of Opportunities (ESOO)",
+      "publisher": "AEMO",
+      "year": 2025,
+      "url": "https://aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-publications/nem-electricity-statement-of-opportunities-esoo",
+      "layer": "energy",
+      "scope": "au",
+      "teaches": "Australia's official grid demand forecast — where data-centre load shows up in the National Electricity Market, and how much headroom each state actually has for AI build-outs."
+    },
+    {
+      "title": "AI Datacenter Energy Dilemma",
+      "publisher": "SemiAnalysis",
+      "year": 2024,
+      "url": "https://semianalysis.com/2024/03/13/ai-datacenter-energy-dilemma-race/",
+      "layer": "infrastructure",
+      "scope": "global",
+      "teaches": "How AI demand translates into data-centre capacity, why power availability (not land or capital) gates the build-out, and how hyperscalers compete for grid connections."
+    },
+    {
+      "title": "AI Neocloud Playbook and Anatomy",
+      "publisher": "SemiAnalysis",
+      "year": 2024,
+      "url": "https://semianalysis.com/2024/10/03/ai-neocloud-playbook-and-anatomy/",
+      "layer": "infrastructure",
+      "scope": "global",
+      "teaches": "The unit economics of renting out GPUs — cluster costs, utilisation, depreciation and payback periods. The best single explainer of how money is made (or lost) operating AI compute."
+    },
+    {
+      "title": "Global Data Center Survey",
+      "publisher": "Uptime Institute",
+      "year": 2025,
+      "url": "https://uptimeinstitute.com/resources/research-and-reports",
+      "layer": "infrastructure",
+      "scope": "global",
+      "teaches": "The annual ground truth on how data centres actually operate — costs, staffing, outages, densities — from the industry's own operators."
+    },
+    {
+      "title": "Expectations of Data Centres and AI Infrastructure Developers",
+      "publisher": "Dept of Industry, Science and Resources",
+      "year": 2026,
+      "url": "https://www.industry.gov.au/publications/expectations-data-centres-and-ai-infrastructure-developers",
+      "layer": "infrastructure",
+      "scope": "au",
+      "teaches": "The social-licence rulebook — energy, water, community benefit, sovereignty — that every Australian data-centre project must satisfy to get approved."
+    },
+    {
+      "title": "AI Chips: What They Are and Why They Matter",
+      "publisher": "CSET, Georgetown",
+      "year": 2020,
+      "url": "https://cset.georgetown.edu/publication/ai-chips-what-they-are-and-why-they-matter/",
+      "layer": "chips",
+      "scope": "global",
+      "teaches": "The clearest primer on what makes a chip an 'AI chip' — why GPUs beat CPUs for AI economics, and why leading-edge fabrication concentrates in so few firms."
+    },
+    {
+      "title": "Chip War: The Fight for the World's Most Critical Technology",
+      "publisher": "Chris Miller (Scribner)",
+      "year": 2022,
+      "url": "https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008",
+      "layer": "chips",
+      "scope": "global",
+      "teaches": "The geopolitical economics of the semiconductor supply chain — TSMC, ASML, export controls — and why chip access is a national-strategy question for countries like Australia."
+    },
+    {
+      "title": "Navigating the High Cost of AI Compute",
+      "publisher": "Andreessen Horowitz",
+      "year": 2023,
+      "url": "https://a16z.com/navigating-the-high-cost-of-ai-compute/",
+      "layer": "chips",
+      "scope": "global",
+      "teaches": "How compute cost flows through the stack — what a GPU-hour costs, why demand outruns supply, and how that shapes who can afford to train and serve models."
+    },
+    {
+      "title": "Data on the Trajectory of AI",
+      "publisher": "Epoch AI",
+      "year": 2025,
+      "url": "https://epoch.ai/trends",
+      "layer": "models",
+      "scope": "global",
+      "teaches": "The measured trends behind model economics — training compute, cost per run, hardware efficiency — the empirical backbone for any claim about where frontier AI is heading."
+    },
+    {
+      "title": "AI Index Report",
+      "publisher": "Stanford HAI",
+      "year": 2025,
+      "url": "https://hai.stanford.edu/ai-index",
+      "layer": "models",
+      "scope": "global",
+      "teaches": "The annual end-to-end scorecard of the AI industry — investment, capability, adoption and cost trends in one sourced volume. The fastest way to calibrate the whole field once a year."
+    },
+    {
+      "title": "LLMflation: LLM Inference Cost Is Falling Fast",
+      "publisher": "Andreessen Horowitz",
+      "year": 2024,
+      "url": "https://a16z.com/llmflation-llm-inference-cost/",
+      "layer": "models",
+      "scope": "global",
+      "teaches": "Why the price of intelligence keeps collapsing — inference cost curves and what 10x-per-year deflation means for who captures value between model labs and applications."
+    },
+    {
+      "title": "AI's $600B Question",
+      "publisher": "Sequoia Capital",
+      "year": 2024,
+      "url": "https://www.sequoiacap.com/article/ais-600b-question/",
+      "layer": "applications",
+      "scope": "global",
+      "teaches": "The core tension of AI economics: the gap between what's being spent on infrastructure and the application revenue needed to justify it. The frame for judging every capex headline."
+    },
+    {
+      "title": "Australia's Generative AI Opportunity",
+      "publisher": "Tech Council of Australia / Microsoft",
+      "year": 2023,
+      "url": "https://techcouncil.com.au/newsroom/australias-generative-ai-opportunity-report/",
+      "layer": "applications",
+      "scope": "au",
+      "teaches": "The sizing of the prize for Australia — which sectors (healthcare, mining, professional services) capture generative-AI value and what adoption is worth to GDP by 2030."
+    },
+    {
+      "title": "The Economic Potential of Generative AI",
+      "publisher": "McKinsey Global Institute",
+      "year": 2023,
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier",
+      "layer": "applications",
+      "scope": "global",
+      "teaches": "The standard reference for where application-layer value pools sit — use cases by industry and function, and the productivity math behind the adoption story."
+    },
+    {
+      "title": "National AI Plan",
+      "publisher": "Dept of Industry, Science and Resources",
+      "year": 2025,
+      "url": "https://www.industry.gov.au/publications/national-ai-plan",
+      "layer": "applications",
+      "scope": "au",
+      "teaches": "The Commonwealth's operating doctrine for AI — infrastructure, capability and diffusion. Most Australian AI policy announcements trace back to this document."
+    }
+  ]
+}
