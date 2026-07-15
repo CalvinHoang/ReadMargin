@@ -1,6 +1,68 @@
 {
-  "updated": "2026-07-14T18:56:36+00:00",
+  "updated": "2026-07-15T01:07:43+00:00",
   "items": [
+    {
+      "title": "Australians are using tech while fearing it, nearly half unsure if content is AI or not - Mi-3.com.au.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjVpU0ltRjN5aFlCckV4clppMHVzYl9nNF94TzhNZHk5UzNCcHZRN2R3MEpzcEo5Nzhtc0h0WnBydzh5NmNsR0JtMG56VU14VTB5YTVOY2lVUl82RGRTdlI0ei1PdkkyZVlpYnBhZy1qZW9naWt3V3pvTDZpR3RIQXRORE03ci1yWmV5UTlVT3FFel82R2o4dGJNYnhLRUwyaElnal9YbjZtYWNQcWpWVzZxZWNYd2VURGc?oc=5",
+      "source": "Mi-3.com.au.",
+      "date": "2026-07-15",
+      "summary": "Australians are using tech while fearing it, nearly half unsure if content is AI or not &nbsp;&nbsp; Mi-3.com.au.",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australians-are-using-tech-while-fearing-it-nearly-half-unsure-if-content-is-ai"
+    },
+    {
+      "title": "PM taking charge of AI in bid to allay concerns over jobs while attracting investment - psnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUZRRERVUlBTTVVaSHZ2RGtjWko2cEJjN0xBeXgweUxxMUpzeVpkR2FXWjVWZElJVUZTMXJ5VjZGZUhoMGRWSUxtN1U0VWJqZkpUMkY4dUNZaXBnTXRCZUJJX09iN3RyY3RVdGtDOGFrUTNTLUp1STRTTk1wTnNJRFI4WS1qWU1KbDlsTFdFaGlJX2ZJbkhxcmF6X1FYZzdXLVBualladkE1Q0k3Y3RwMWVTTWh3Zw?oc=5",
+      "source": "psnews.com.au",
+      "date": "2026-07-15",
+      "summary": "PM taking charge of AI in bid to allay concerns over jobs while attracting investment &nbsp;&nbsp; psnews.com.au",
+      "categories": [
+        "bids",
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-pm-taking-charge-of-ai-in-bid-to-allay-concerns-over-jobs-while-attracting-inves"
+    },
+    {
+      "title": "New Office Of AI To Oversee Australia’s National Framework - channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa0ZEY1ZtX094emthbkMxWWVHVHNOUkw1NE51Zy1PNHRuX2lXMnhQUmJiLUNJSmNPN3k4dWxDMXVfdXdIY3lCeHppQ21mMmlQa0dsdTFDT0dVek84SzNDQmlRQlFySzI1d1lzVWlDakkyTTM4eTk1cWhqZ1lLdWhxZmt1RlhZZjJJMWRCMEl0Qmh4Y2c?oc=5",
+      "source": "channelnews.com.au",
+      "date": "2026-07-15",
+      "summary": "New Office Of AI To Oversee Australia’s National Framework &nbsp;&nbsp; channelnews.com.au",
+      "categories": [
+        "investments",
+        "policy"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-new-office-of-ai-to-oversee-australia-s-national-framework-channelnews-com-au"
+    },
+    {
+      "title": "Tech Bytes: Australia creates central AI office as government seeks control of fast-moving technology - Proactive Investors",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPc1ptT3NubkVxc0RhYTRTSEtkSVlKSkVtRnFNYzFhbjQxdXRfVHNvRmNrLXZlcHVPSFZzbmVLWnFvSGJJbHM0aXNNeE1ySHRtTDFydXhIdUxpVXlEckwwS3hpMzZRcmE5S2lSNlRydkx3QWhxT1R4aUNEWmxGQkpiU3p4Q1phWTdBNndhczk1YkxEYjVHcnpfdmFFVl93dTFYNkhmaUNxYnJteFV0MDNCbEJvVmpwaDFPN0g1ZWVlb3VRT1pLSUtvOVQwbUg3Zk1OSFVham11NVU3M1FKU2o1bGVESGlCWnJ4Z0tweExkal9RdlBjdVZkZzg2TC03Z3lMZ1gw?oc=5",
+      "source": "Proactive Investors",
+      "date": "2026-07-15",
+      "summary": "Tech Bytes: Australia creates central AI office as government seeks control of fast-moving technology &nbsp;&nbsp; Proactive Investors",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-tech-bytes-australia-creates-central-ai-office-as-government-seeks-control-of-fa"
+    },
     {
       "title": "Can NXT Deliver the Power Behind Australia’s AI Push? - Kalkine Media",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2tmS3hsc2hBVmp3OXFZSWR0anlMcVBHZFBYeVRqNjJFeHlMRU1lVUlTZVRqRk9FSThrUGRvaUpwcHJ3Z1RxeFpSbjlTaTRZVkdia19sRTNpN09nVHk5MHM1OHlVUXBTOWlMajB3MUM5UzNaN2RlSGlQSW5MOVAwYkRUeGJQX2x1TlRVam9zTkg0cWZDeVo2Skk3VUlIV2NkR3NTakRsb0p3Uzgyalp3?oc=5",
@@ -731,6 +793,322 @@
       ],
       "horizon": "now",
       "id": "gn-australia-fast-tracks-ai-datacentre-approvals-as-albanese-unveils-unified-oversi"
+    },
+    {
+      "title": "Day one for Albo’s ‘world-first’ AI plan - News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOUtmU2tGTzZmU1lwakdIZ05rQzJZV2tQLWt1MkRNc2dCYWpfdVhNT0tXamREM014bkRmbjVnZzJ4dFNrMHVlclJNSlowazdWLWZWcTRjdV9iRkdDQXZMaHVIMEtGc0JIR253Z1gteHBBMFRJeVdkaFNOS0txYnVGdnFPOE56aXMtVHhxdUY3cUQ3LWx6RlBvQlV3MnVYN2VSXzVZNHp3bDZWV0xqNTJySGdUelphOEZYbjBHZVMyZ3VZVk55SFdFY3pVNmwycGxSV0ktTHlNN3VXT3NYWGRpTmozalVPdldBQWtGa2k4VXE0ekM5SmFiMXEwa3FXX01G0gGGAkFVX3lxTE5Bdl9uMkZBbGZwOWdSTnhjMWxfeUkyTDJKQ2lHTmFHZGpHZEVESmduMFUxS3VsdGJORFFpajh1YndOamhCYkQ0ZTduVDVDZjJkOERnWUtSM1RpTzlsWWc1eFh6TEtnRm1CelJWb3NVeXllYTFIbXFzbmgtVVlnTWpBZ05yOFp1STMxcnRKekFtSTFpWXpIRzJWRHRMMHJraEdqZ2VtWFpHaUtNLTlXSmRFbXhsU1U3MHFhTDk4aVNWRVp5c2tXUEZmYjVWYUN0NC1UbHNMTFlfNEluampUaUJmZVpVV19jdUs3XzIzZ2k3VVFhZFRTeURmUG1GVzJqVmo0Y3hab3c?oc=5",
+      "source": "News.com.au",
+      "date": "2026-07-14",
+      "summary": "Day one for Albo’s ‘world-first’ AI plan &nbsp;&nbsp; News.com.au    ‘Chaos’: Big call on Albo’s AI agenda &nbsp;&nbsp; News.com.au    News live: Jane Hume says Australia should be ‘encouraging’ datacentres and claims PM’s plan to regulate AI may stifle innovation &nbsp;&nbsp; Th",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-day-one-for-albo-s-world-first-ai-plan-news-com-au"
+    },
+    {
+      "title": "Albanese to create Office of AI - The Saturday Paper",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mT0M4cVZsdWtVX3hPcG5iazVzZzJZU0h1WU1kc0NDcEdyRklpbE1KN1JaRGJtQ1NVZzJYek9PVnRXanQzb0dXMnBtRzNFSUZVQVNkTDN5UWQwS3RHSExHTnJ0ejZTTmltNFFoelBOSTREeG10?oc=5",
+      "source": "The Saturday Paper",
+      "date": "2026-07-14",
+      "summary": "Albanese to create Office of AI &nbsp;&nbsp; The Saturday Paper",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-albanese-to-create-office-of-ai-the-saturday-paper"
+    },
+    {
+      "title": "AI blueprint looms as PM examines 'lessons from abroad' - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzRFN0J1cGp1bnpXVXlseGtFU01xT1BSbDFHMEdyeTgzZldQczVIbmRfVzhaTlBENEFSRklieE9iOHRPdGNNcjNBQkQyT2FDSE9qXzNVUHhkRUxMRVlUMmJpSGJOdEQzem5TVGdLcVM1cE1aS1BWTEo1SjJPMlNmV0N0QmI5aGdjbFdR?oc=5",
+      "source": "Yahoo Finance Australia",
+      "date": "2026-07-14",
+      "summary": "AI blueprint looms as PM examines 'lessons from abroad' &nbsp;&nbsp; Yahoo Finance Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-blueprint-looms-as-pm-examines-lessons-from-abroad-yahoo-finance-australia"
+    },
+    {
+      "title": "Submissions and nominations are now open for the Australian AI Awards 2026 - Broker Daily",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTJOckNMYVZQX3JsY01VX0RvVDI0Q1ZjeGQ4QlNhS1l6V0xuSnQ3eDI3VWEwZTJNXzZHZUNkbVcxeTZiSkdYZWZCM3h6QTN6SFd4bnA3c0Y3eXcwUFowVk91S3FmQmFOMG9uY1V5M1pCUFR5c0VVU0hCaThZZy1YeU5TSUJpM2NudjhwRlR2WFpaTTlteHlPbDJQNjl5emZRUzh0MVVPaE9Lb2dJdEZnbUw0RXdIOHk1WVE?oc=5",
+      "source": "Broker Daily",
+      "date": "2026-07-14",
+      "summary": "Submissions and nominations are now open for the Australian AI Awards 2026 &nbsp;&nbsp; Broker Daily",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-submissions-and-nominations-are-now-open-for-the-australian-ai-awards-2026-broke"
+    },
+    {
+      "title": "Australian tech leaders hail AI shift to core business - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1pvYXA5QWZVS1Fscm1reG9UU0RoM3kxUGFtMXFVZ1hrOGFibTBhOFdwenU3Y3V3OWVYN3JWbVB2a2otUXowS3BFUnpESXA3dm41WXZNN21hVkdma2llOEtmQ2pFRGtHNXNCY284UnptWW9HdzVrVGQxZEhGOVl5S3Nob2dNdDNweVFN?oc=5",
+      "source": "IT Brief Australia",
+      "date": "2026-07-14",
+      "summary": "Australian tech leaders hail AI shift to core business &nbsp;&nbsp; IT Brief Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australian-tech-leaders-hail-ai-shift-to-core-business-it-brief-australia"
+    },
+    {
+      "title": "Entries open for Australian AI Awards 2026 - defenceconnect.com.au",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMW96N2c2LXZNQlJpR0lyMExMeGFzejdzNmlscldXR0hxNmVOTkIwb00yb05mR21aQ2JjajJibGRYVkxfOE9BelBKTE5DcnhuaEFHNUt5SzdBRWI5S0lhb3N5QjRyWGhwSmpwcWJaM3p5Mk9uVUltQnZrenBHbXRJV2kwTlpPR2JOVXFVTG1jSHB3bXlrdHc?oc=5",
+      "source": "defenceconnect.com.au",
+      "date": "2026-07-14",
+      "summary": "Entries open for Australian AI Awards 2026 &nbsp;&nbsp; defenceconnect.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-entries-open-for-australian-ai-awards-2026-defenceconnect-com-au"
+    },
+    {
+      "title": "Albanese creates new central office for artificial intelligence - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnQxTzBHYll4OE1BZURRY2pKeE1TaUtQVURfVDZKZ0txcmJlbWNxYy03bkJYM1NFbU83bDVCR0lNMmxMTVJDd3JKTTNGV1RkdDhTMmxaaTBiX0RkTTREaWFzSGVMODV3OE05Q25HX1BRSW9lcl9GdnBramtzX2NZQ0pRUFV5UTVTZGFwb1NRX2VBbEtla19tRnZ6OEE3VHp4?oc=5",
+      "source": "grafa.com",
+      "date": "2026-07-14",
+      "summary": "Albanese creates new central office for artificial intelligence &nbsp;&nbsp; grafa.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-albanese-creates-new-central-office-for-artificial-intelligence-grafa-com"
+    },
+    {
+      "title": "AI boom bumping up gas prices - The Nightly",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnpfZ1lBMllTcWhsQlk1cGJMd09aX0xqVGd1alItOTdpZGNRREM5MTVGV2FHcHZMQ2tkSUhGaFRwLXc4cHdOaXJmaDN3c0JtenBJR2hYbWdUWFowMnYyNnFvakhRME9mTzZBdU5OeG5QcXRVa29EVnJrZnY4YUp0UnpzR3dFRW1TOFVPT2ZWTjNlSm8zSFQ1d2VmaVF1MU8xZG9kcFAyUE9iTEY5b0JfY1Uybmp4VjVXNGtwdjdfbGcwUHN0MTYwSExmbzA?oc=5",
+      "source": "The Nightly",
+      "date": "2026-07-14",
+      "summary": "AI boom bumping up gas prices &nbsp;&nbsp; The Nightly",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-boom-bumping-up-gas-prices-the-nightly"
+    },
+    {
+      "title": "AI reshapes data & cyber risk for Australian firms - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2NXUUFvYTc5TGdxSzEtQW5KQi1tYmkxa3Z0NnRwbG9jSlRBd2pTUE92bGY4aHQ3YUdaajFEc0lKdGlOUi0ydkJCWkRPdUNwcS1ZeGs0dk9zZ01PbzhWX0I5VVNscS15TzR2b3dBZ0VnY3FucnRuZmVvbUhMRGNSaEVjQQ?oc=5",
+      "source": "IT Brief Australia",
+      "date": "2026-07-14",
+      "summary": "AI reshapes data & cyber risk for Australian firms &nbsp;&nbsp; IT Brief Australia",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-reshapes-data-cyber-risk-for-australian-firms-it-brief-australia"
+    },
+    {
+      "title": "'Getting this right': Labor unveils blueprint for AI - aapnews.aap.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWtmV2lSWHp3WHJVQUlCMV9iamlLM2FjbHBMVzRocmNXZld0VDNocDE1Q2xvc2o5bG55Y18tc2FPcUJFaWJFQ1RsWUJtNXNBYjAtbFBNR1BfUzYwVFFDdEg5aWlHaERYejlOM2lCcWZ5Y19Zcnozd25tRWY3ZHlTbmlLZFk1a3pE?oc=5",
+      "source": "aapnews.aap.com.au",
+      "date": "2026-07-14",
+      "summary": "'Getting this right': Labor unveils blueprint for AI &nbsp;&nbsp; aapnews.aap.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-getting-this-right-labor-unveils-blueprint-for-ai-aapnews-aap-com-au"
+    },
+    {
+      "title": "Trumps Drops Hormuz Toll Idea, Australia to Set Up AI Office - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSzFMYmgwaC0yb3RrZEZMRWpYT1Q0LVhIMjh6d1U3UGZ2Sk15ZHFZRV8xU2QtUGFHVnVhNXlLbUZUbEMtNFU3dVM5ZHQ5Vk8zajU5UFZYd0JtV0FHeEQ3ZEJBVms0U3lmZC1QcVJQbHE4ajNBUGZHTTVTbkNfOXlCQ3RGcDktQV83dFBtZ2MzSWF2d2daRl9XWDdNRU1jOVcteVJLcFhwbk4tUVM4ZlZjRjVGQ1FoSTQ5M3gtS1BwY2Y4dHJTd1Vsam9sbmExdHgwbFF4aGhvUndNd29ycnJJNG5NcS1rQQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-07-14",
+      "summary": "Trumps Drops Hormuz Toll Idea, Australia to Set Up AI Office &nbsp;&nbsp; Bloomberg.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-trumps-drops-hormuz-toll-idea-australia-to-set-up-ai-office-bloomberg-com"
+    },
+    {
+      "title": "Smart glasses help vision-impaired despite privacy concerns - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUtMT0tiMWotZ3Fkb1BMVmFCOHhyaE5TU2FqdTl5S0RuYjdWb3lZWFM2WFZGWkk2Tmwzd2NVR3l0MVV2bkR2N2t0QjhIXzRLZkZYbUwwZkEtVEl1elV5VmVSQjRZYlVWb3FmZUJWeGZhMmdycFc1MVl2WGI4ZWRBekZDZEFPLXhIUERWQ2FwT21pTENqZk1sSFg0OWJnSS11aUFkOGZlLUp5QWVD?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-07-14",
+      "summary": "Smart glasses help vision-impaired despite privacy concerns &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-smart-glasses-help-vision-impaired-despite-privacy-concerns-abc-news-headlines-a"
+    },
+    {
+      "title": "Albanese to Set Up Office of AI to Design Australian Standards - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUxwd2RPTHNLbkl1QmI4ell1SlZpU0pGMXF1a2pSQUoxQTQzTS10aTNTd3Q1YWZGUHkxVm9iVlNubldMSjdVUTlwQnB1RlhObHpINXVzN1dKRVNIbmJzUHBxeGNiLURENTNYSThFc01PQ0NpZkxZdkNtcm5tUkcwdEppS0lRNTNZN0RpTEFwWTZaUTdKSjd3LU1ES1hXVGw0djNhaXFuWDlCMXRaYWVCVDQxNA?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-07-14",
+      "summary": "Albanese to Set Up Office of AI to Design Australian Standards &nbsp;&nbsp; Bloomberg.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-albanese-to-set-up-office-of-ai-to-design-australian-standards-bloomberg-com"
+    },
+    {
+      "title": "Albanese to create Office of AI - CathNews",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uUUpQR3NwWTdBSlJwSlctZ2hEN25OV0s3UGJzUHUyTVozTmR2d0xSV3B6Zm9SeEFkZWstT0YyU0NQM1NGTnRNYVlDbDltRklxVk5mTGVwTTRaNlVHMmVmcWhvZzJRVVFEWUJkVWNxcDBSQQ?oc=5",
+      "source": "CathNews",
+      "date": "2026-07-14",
+      "summary": "Albanese to create Office of AI &nbsp;&nbsp; CathNews",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-albanese-to-create-office-of-ai-cathnews"
+    },
+    {
+      "title": "Albanese Unveils Blueprint to Manage Australia’s Artificial Intelligence Shift - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWs3cmZ2N0hRN0NNby1USXg0T3R1RGhtb0xsd3dHbEcyYTBRMTdMTnZIbVhMcmNyLWVNUVo1dW9UMTVHdTc2cnBxYTJWTkVyOXNlYWhxTnZpLVZQYm8wMTl1OWtkc0JxQ0ZvVFl3NVdXTVZtalhLVng2VzNiTDZ4c21rdDVwZHBFRGVqUXZkMVpQUjZjU1BBb2d6X3BlOHRIc2JYbFFHel84VGpKOUlwaW5tX3MtRlU?oc=5",
+      "source": "JournalArta",
+      "date": "2026-07-14",
+      "summary": "Albanese Unveils Blueprint to Manage Australia’s Artificial Intelligence Shift &nbsp;&nbsp; JournalArta",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-albanese-unveils-blueprint-to-manage-australia-s-artificial-intelligence-shift-j"
+    },
+    {
+      "title": "Pharmacy Guild’s bad week gets worse with apparent AI howler - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUZIOC12NjdkZUhxdFdoMFN0T1ZQbWwybWFGcnlYMEtXWjdZTlo5VDNXWWFlTmhGQ1lwTkNQUU1aeWJVMzZRR1ktVHhkNFk1WXRSbmExX29JemRzUTRVWV9mQW8zVXZ1TE52Y2xQSVQ3NWpDZDd4bVA1MlJRaTM0NDlTeVMzeERPQ3dnQkVqVDVvWnNSSFppdWRmajY2QlRRZkd5Q1V4aDRDRDNjV0JXTVd2Y3Rjam96aGV4WEttcTZnR0JMdHFjTl8wTTMzb3NQdzE1T2MzVHd4dlZFNUF3WndVLXRrdnprV2ZuaXJn0gHzAUFVX3lxTE90ODV6bE52eFVPMnYtT040ZkhTc2tDbDhjbUNyRmV1bVJaSzctU0J3UDBqU1RxRHcwMG5CMzhrXzZMbG9hSWxlV0VFTjN4V0U5NS12NEg4bU9wNDV6T1gta3UwSmRXbjA5VzhVNTI0QUJJVnpHWGhhdmRzdEg0UzMtVVd2STYzZE0tY2ZHaHJCMFF0WkEtRmVBa3pRbk1YSHdSZjF1b0Z1bGU1X29ObkVPVjI0d2pZdmdHR2VXclZzNHJYMklOWGI3d1dENk1qRFluSGwwbnVqdkFPQ1lyYXpWWXZWemFPOHAtYkVvTFVIM1BPcw?oc=5",
+      "source": "The Australian",
+      "date": "2026-07-14",
+      "summary": "Pharmacy Guild’s bad week gets worse with apparent AI howler &nbsp;&nbsp; The Australian",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-pharmacy-guild-s-bad-week-gets-worse-with-apparent-ai-howler-the-australian"
+    },
+    {
+      "title": "Why Is NXT (ASX:NXT) At The Centre Of Australia's AI Debate? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0hsWnFoOHUtSm1hZkQ3Ylptb1VnMjRtUVQxQV9sRTZuUVFXRHF0NDhoUmJJdlZKTlhTYXUzVzdxVkNaLVZDSGFYZkV1VDFVclRwblY2cGRpQVlVM1l2V2tZVTlNMko1LVE3VC1Ra2QwRU9rUVpBRk9mSmxHVERaajI1YTRFSURTaDFIcUF6bFZVWjQtVnhHMW9MbGh6MkREV1VoMjcxWHZrX1B0U1AybzJtTnI?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-07-14",
+      "summary": "Why Is NXT (ASX:NXT) At The Centre Of Australia's AI Debate? &nbsp;&nbsp; Kalkine Media",
+      "categories": [
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-why-is-nxt-asx-nxt-at-the-centre-of-australia-s-ai-debate-kalkine-media"
+    },
+    {
+      "title": "Albanese reveals 'world-first' AI plan amid 'doomed to failure' call from inside Labor - SBS",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0pwdnhCMWVzOHNyRXJONm1DS1lueTF1THVQWjdyUUNwdzF4cWVnbm1JdW9aTFJpV09nOGN1MEZ5TWI2WFFGTnRTNnI3N2MyYVZ6d1FUTFlEamM0SUZORFVCMHhwZ3dpbnM3eGhSU3A5MFJ3RHJ1V29XbEZ1QnNDTml1ODEwejBkQlVFbHdjcXUtUEJSak43T3F3Rk12anNHOFBYWUpwRHQ5QlQ4eHEteDJfM0pCYW5lcEE?oc=5",
+      "source": "SBS",
+      "date": "2026-07-14",
+      "summary": "Albanese reveals 'world-first' AI plan amid 'doomed to failure' call from inside Labor &nbsp;&nbsp; SBS",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-albanese-reveals-world-first-ai-plan-amid-doomed-to-failure-call-from-inside-lab"
+    },
+    {
+      "title": "Australia to establish government AI office - iTnews",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0d2bVFyWm5BYUlSTXc2VmdOcU9WbTNiaEpsN0FkMkcyVlJWNHJVb0Jub3BmMTl1UDZ2NS1Mdms5aXMzQ3NlMWFlY0hPMlJzWlV1TE51UjNKVE1DMkFwem1LOUU5OUtMbFI4UXVmMjU2UFp2b3RhNUI1OGkyQ18yRXFhRjV0T3gz?oc=5",
+      "source": "iTnews",
+      "date": "2026-07-14",
+      "summary": "Australia to establish government AI office &nbsp;&nbsp; iTnews",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-to-establish-government-ai-office-itnews"
+    },
+    {
+      "title": "Building and scaling an Australian data centre platform: from market entry to platform scale - Gilbert + Tobin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDhfYWxkMW9STTdNeG90dm9WSEJJaTZUUmJyUVU5SDdDaG5NSllWb1ZDMzRyNEdPZ3pWRm55SjEwenJqa3VRNEpuLXY3WDVJZ0RUN3RwckNDUUlEWFJOY2ZRY3VhMGF1TFU2emZVU0xqd0xDalluLTVwNENlQ0R1Zlp3X3hxVmE4M1EtUVBtODZKaXJr?oc=5",
+      "source": "Gilbert + Tobin",
+      "date": "2026-07-14",
+      "summary": "Building and scaling an Australian data centre platform: from market entry to platform scale &nbsp;&nbsp; Gilbert + Tobin",
+      "categories": [
+        "buildouts",
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-building-and-scaling-an-australian-data-centre-platform-from-market-entry-to-pla"
+    },
+    {
+      "title": "US data centre boom is shaking up Australia’s energy grid - AFR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMDlHT0JtZkpCbVFpeURiNDctQURvLUlaNFBXbnNCMXd0NVFmMzJXdU9DbThENVRHS2hRUWVyb1luNUFTZ2xEejVTNG9lZjNjak1HRTlOM3E4WEJ2OVVfN3BQeWRWTGlmNTFEWTdPYW1wU2J1SExIQVRaTDFQM05ZY2hNMjhheS03Nzdua0pnTmctUmVfRk1ISTdNaGNUQmVMUk9TNHBmTklCOTF0MVVN?oc=5",
+      "source": "AFR",
+      "date": "2026-07-14",
+      "summary": "US data centre boom is shaking up Australia’s energy grid &nbsp;&nbsp; AFR",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-us-data-centre-boom-is-shaking-up-australia-s-energy-grid-afr"
     },
     {
       "title": "Artificial Intelligence and the elephant in the data room - The Spectator Australia",
@@ -1487,6 +1865,36 @@
       "id": "gn-pm-readies-major-ai-announcement-but-deadlock-remains-on-billion-dollar-tech-tus"
     },
     {
+      "title": "Sky News host Caleb Bond says the Opposition has gone “all in” on artificial intelligence. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeFY2Snc4ZVpkR3RLMkZha3ZESnUtNE02OFFuVXluUmFneHYxODUwS3dZeExBQ3dXOFNKcDBMcEVONWNwaUlrOTBLQ0MyLVFvNGt2dDVoN3dKc3ZSOThfSlNZM0daLTFFVERkTHhqU2NvNktER2ZDU25BNlkwYTBRTDFRbVUtaWJURzctenV5MlFuUXQtUTBlMFR4VW9TdWVwOEdYR3A5XzM1ZFhZSkx3YnFIZjRGVzAxLWpxYWtRc2J3SkFQT2ZYeXFxM0FDbXhHRU5ETkREUE8zd20tdTJz?oc=5",
+      "source": "facebook.com",
+      "date": "2026-07-13",
+      "summary": "Sky News host Caleb Bond says the Opposition has gone “all in” on artificial intelligence. &nbsp;&nbsp; facebook.com",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-sky-news-host-caleb-bond-says-the-opposition-has-gone-all-in-on-artificial-intel"
+    },
+    {
+      "title": "Mulling AI investment, Anthropic lobbied Australia on copyright law - inkl",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3JPSldhMU4zSE5tZjBlMnBtZmQzdE1DMHpXak9tbjEwVUxreGtGSkdHdzNkS09uMjVsM25MeDhOaWpsV1l5U29LMTVHaDYyWFZnLUlrUEh6Y1cxTlJ5Q3NyNEJ0ZHd5ZFg4RlJjenhjSFZTMWZ2YUFIWWNlZEFPZUg2TEExLUZCOV94SFZMR1FnQnBrdlUw?oc=5",
+      "source": "inkl",
+      "date": "2026-07-13",
+      "summary": "Mulling AI investment, Anthropic lobbied Australia on copyright law &nbsp;&nbsp; inkl",
+      "categories": [
+        "investments"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-mulling-ai-investment-anthropic-lobbied-australia-on-copyright-law-inkl"
+    },
+    {
       "title": "Australia’s AI in the NDIS Summit Heads to ICC Sydney as Artificial Intelligence Reshapes Disability Services and Business Travel: Here’s What You Need to Know Now - Travel And Tour World",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PelNpNURzYTB2UDEtWDhDMzJJcWh5NTlBNFJWS1k1T2s5cER2dllkRFlJSzd1VElZVk1mLU5ucFREX3QtbWlfbHlUOF9mQy16Vm5vM1JfZ1ctaVJKclloWnJ4NVJMLVV5d1gtUHdB?oc=5",
       "source": "Travel And Tour World",
@@ -1756,6 +2164,21 @@
       ],
       "horizon": "now",
       "id": "gn-the-hack-almost-everyone-s-using-ai-agents-cpa-australia"
+    },
+    {
+      "title": "How Australia’s most prolific ‘vibe coder’ works in his sleep - AFR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaTJPOElXQ3NLUU1UcHFfWHQ0T3NjU1VPOFYyZHpwOXV6OTVfN2VMdHFrRkhJeVBraFptVlVZOXpvUGc4Mi1mM1pLSFJQdGd3Nm1GMWdGVGNhUmtzbGxCcXh5Z2d2emRaUnp0LWg1SWN6X05yYUYyUUJTOWhoQng4aUVHRzBXSEFxZDctcVVYbjE4dEwtdW9EUlhocGwzakFDYi1FQXFtbS1jZnlQMy13MFFQejYyT3E5Mk0yZQ?oc=5",
+      "source": "AFR",
+      "date": "2026-07-12",
+      "summary": "How Australia’s most prolific ‘vibe coder’ works in his sleep &nbsp;&nbsp; AFR",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-how-australia-s-most-prolific-vibe-coder-works-in-his-sleep-afr"
     },
     {
       "title": "'Lots Of Opportunities' For India, Australia In AI, Tech: Minister To NDTV - NDTV",
@@ -3361,429 +3784,6 @@
       ],
       "horizon": "now",
       "id": "gn-queensland-government-would-raise-power-prices-and-pollution-with-data-centre-ga"
-    },
-    {
-      "title": "NextDC (ASX:NXT) And Superloop (ASX:SLC) Ride Australia's Data Centre Boom - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXhjcFVIMXlpWEp3NGQ5UktNeWlnUW5xZ1E5dldnVW9CNEM5bUxhQ2JIWGV2MFNQbTktOWRaWjFLRGo4VjE4MmhXSFNUTXZQMjBYMjluODA3cldMb1Bqb18tZXU0alFnUDktQV96cVRyRlJ1YUFFVU5ydjZZNVhUQ21IQzlsVTF4aEhXazlmRXFuc204MjFGUDBfeUtEN0FycVBCRE5IMjFKNkF5aWtnU3ZiSQ?oc=5",
-      "source": "Kalkine Media",
-      "date": "2026-07-08",
-      "summary": "NextDC (ASX:NXT) And Superloop (ASX:SLC) Ride Australia's Data Centre Boom &nbsp;&nbsp; Kalkine Media",
-      "categories": [
-        "buildouts",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-nextdc-asx-nxt-and-superloop-asx-slc-ride-australia-s-data-centre-boom-kalkine-m"
-    },
-    {
-      "title": "Women and university graduates in Australia most at risk of losing jobs to AI, report finds - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNak9XeHQzSU9OUUhGSEhwMDJkOVBpay12Z1UxNU12LTdvN2pmYlQyZ1ExRzhlUVZCSGxueHBxeFFnVVlNZXNCcEY0Nk52REFlaTFNVWZOUlZQTnR5Z1hmRTgzWHV0TzUtb04tQUx4VmtMei04UlJCNEk2R2tTS1htdWRSb0F3Sjk1X1pYdkxVUzVScVRSTXBrVXVxM0I1SDZrREZocC00bUVEdHNnZFl5b3B2c0c1WUsxZDZ0cGxHOEJtakNUd1E?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-08",
-      "summary": "Women and university graduates in Australia most at risk of losing jobs to AI, report finds &nbsp;&nbsp; The Guardian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-women-and-university-graduates-in-australia-most-at-risk-of-losing-jobs-to-ai-re"
-    },
-    {
-      "title": "Australian dock workers fight against AI rollout - Personnel Today",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqNGZtNFFBbHpaSDdRLWxpeWk1WS1fVlh5dmRPLWxORTdmbU5RUHpwZVY2cVNiS0F6aUpYVFA3NkFTUXVaRmd3Q3dQUU84aHBiUmVONXVxWXphclVrM1cyTVZIYmlqbXdMam5NWUlvc2tBem1iSkE?oc=5",
-      "source": "Personnel Today",
-      "date": "2026-07-08",
-      "summary": "Australian dock workers fight against AI rollout &nbsp;&nbsp; Personnel Today",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australian-dock-workers-fight-against-ai-rollout-personnel-today"
-    },
-    {
-      "title": "‘It can’t swing a hammer’: Builders use AI threat to recruit tradies - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNVE0ZElra09uNTYtMU5KM195RXo5LXFyT3FUd0p2a2xNUzN0S3ZMMjZBLTdrYmhCRlA0dVNmcTl6MmZWdUVBbUFiNmcxX0stZzBhNDFHTWpBWmVFLWk0N0tsRHk4ZS1XWlQyQlpsQ0Fqd1k2TnFLY1lQaHJZbk1iV0hrak1yRDQ1bVJtbDc1RnIzU2wyNFo4M0c1bFh4MUdkeDRnZEJoY21HdGkxcE0xTzZWWDBaNUU2OUFsWUJOMEtIbVhMOW92MTc0bmhLNGVlREdBNEFhZmdWSmI1SUhMZHdTOVlqRDBFY0c5WklfVUpFNkZESkHSAfsBQVVfeXFMT21XWHAtT0dHNEFWaW93RHY4WmxXUWxGSzVITEZfXzl2UHNaeTBwQ2FHcFZHenRPeEtoeDZ0MVduT2wtYUN3Q05NSkVrMDBBRnY2YXFsOEdtN0JqM0J5b0plYy1JcUFEMUc1ZXB3UnBhTDBTOWtVNjRna3FubjdmZkZUUm1Ndi0wWHZ3TDlQcGx4UEhRNUlEMmlVNFR1VXUzZk9MSHJMd3Z3b054MFQ0SF91SGE1bmNpRF96aE8xT1NTd196cjJmNk0tdEp6U1d5bnhuR3hUaHdRaF9BMTYtdlprZTRLVTNQOGc5SmxHVC1wWmhWTjZIQy11TkU?oc=5",
-      "source": "The Australian",
-      "date": "2026-07-08",
-      "summary": "‘It can’t swing a hammer’: Builders use AI threat to recruit tradies &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-it-can-t-swing-a-hammer-builders-use-ai-threat-to-recruit-tradies-the-australia"
-    },
-    {
-      "title": "FCFCOA denies unlawful termination claim of man who put ‘blind faith’ in AI ‘legal expert’ - Australasian Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWllQbkJLcUxtWFkyQVdxcEVMTGxMcTVqSk1wWW5OOVZUU1JXaGtxSzBRbWYzdFhVVWNxN3JTaTh1WnNDRmVJNUFuWWhKblFVRUFEWFJYMllyOU1oQXJTRUh3R2xZVkJ3Wk1KWHZsemc5Q2lrY0hZQWVOVFh4R293UFJtT0ZxdjdKN0VYbjJGUkFwYmJwOS1QeWpSdC1MUDRveEZUNEFXT1hRVEJtc2cxTXEwOW5xbHl1dkRxQktNUHNZek96RVRNVmdHcVhBMXFwVUliTUR5TGpkNURaSi0tQjcxZVFUZmZ4VWE1NF8zZ0dDdnJB?oc=5",
-      "source": "Australasian Lawyer",
-      "date": "2026-07-08",
-      "summary": "FCFCOA denies unlawful termination claim of man who put ‘blind faith’ in AI ‘legal expert’ &nbsp;&nbsp; Australasian Lawyer",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-fcfcoa-denies-unlawful-termination-claim-of-man-who-put-blind-faith-in-ai-legal"
-    },
-    {
-      "title": "Experts warn secret workplace AI use could cost employees their jobs - The Greek Herald",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnloZUdqU2dlNGpWaUc1NmNDR0xCMmJ3cUxoTFhMdklBRUEzTFZnZzNMYUtrZWFwY0NCSGQ5VzVIYkdQYndhVFZxRUlTS1JRQ3c2MDJrX0NBQnI4b0haRlFMN29PbnBQU2hlWWxDaVpjYkkyUDNFWFVxOHlzZFJObVJhMlFKVjhxckFudzdxUjNOQ3pxM21OdjBRbk1YNkJja3RZ?oc=5",
-      "source": "The Greek Herald",
-      "date": "2026-07-08",
-      "summary": "Experts warn secret workplace AI use could cost employees their jobs &nbsp;&nbsp; The Greek Herald",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-experts-warn-secret-workplace-ai-use-could-cost-employees-their-jobs-the-greek-h"
-    },
-    {
-      "title": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? - Kalkine Media",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObTVoc1JQSUZkOXEzVW84bHBJakJFYlVkMnNvNTZ6SEN2QUVXR28zYlJCZkd4MnZDaU1ram15Q1l3M1Q4VnhXNUR5d1VoY3Q3NkVoVEZvQldQWC0yUy05VG1QcWVXeW12Vk5MR1NSNGlMR2ZKOUVmYmlQZG1CTk1ISndHWGM2em82S1Fic2djSWx6clFWNnJyWVF1V3dvUTJGYlhCRXYzOVNGWWtiSzJ0d0VxLVVGbXhGbXpnUkI3ZW84UUh3OGc?oc=5",
-      "source": "Kalkine Media",
-      "date": "2026-07-08",
-      "summary": "Is NextDC (ASX:NXT) Becoming Australia's Leading AI Infrastructure Stock? &nbsp;&nbsp; Kalkine Media",
-      "categories": [
-        "buildouts",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-is-nextdc-asx-nxt-becoming-australia-s-leading-ai-infrastructure-stock-kalkine-m"
-    },
-    {
-      "title": "Australia's Trillion-Dollar Pension Fund: AI Is Not in a Bubble; Plans to Buy on Dips - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0tXcllZRGJGNkMxQzBXcFhrdi1yYm93a2E0THpqbjdTMkhlalI0eHJhWnRlRlBMOS1VeWNueVNRTG1ZNzNZYzZnTmI1Tkl5S0FrQTJReUFlQlhfMDdUMVBCb1dBRmxSQ0lRamwxUTljVmUyV3FueXo5dm1SOHlaLXVPTGk1akh4d1dUeE1mZzk4U0d4UUpBbUxB?oc=5",
-      "source": "富途牛牛",
-      "date": "2026-07-08",
-      "summary": "Australia's Trillion-Dollar Pension Fund: AI Is Not in a Bubble; Plans to Buy on Dips &nbsp;&nbsp; 富途牛牛",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-australia-s-trillion-dollar-pension-fund-ai-is-not-in-a-bubble-plans-to-buy-on-d"
-    },
-    {
-      "title": "The golf course in the middle of Sydney’s data centre land rush - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEhBUGdJdnNfTWphZ2hCQTdpZjlHODlsZ1BuZlZQUVB1NTVVZ2FBay1BZ3JmOFgzV0VEZzFJdXJTdzhtZVFrVjFEQ2oyeW9iS0ZuRmZZWGJmMWxGQ25lXzZQQUFXTzEyVWJXcnZDeERJMUNzUGl5SDdDRVRBOUthT19rZXpWemRJSzFpNDNBQ1NFNUxIdTdUTHR2akJJNnl3Vndob29pQXZLV2plQy1kaUFJTVRqcFVvM2NWSg?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-07-08",
-      "summary": "The golf course in the middle of Sydney’s data centre land rush &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "NSW"
-      ],
-      "horizon": "now",
-      "id": "gn-the-golf-course-in-the-middle-of-sydney-s-data-centre-land-rush-smh-com-au"
-    },
-    {
-      "title": "Capitalise on AI as it keeps global economy afloat - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR0xjamNTcE9WeU5IQjhUMlNKTjdjZjRuYThWcVlNRUVGWmc4WXlhU01rdm51TmxfczQ3MjBSQjFMLTFEb3RRZ0tNQ0pxR3ZkMXprRGZ5Mk5IZVMtU0pKa05xTEpqblF3anJHeGZ5anF3Z2Z5LU5WMGxTNTF3WkM3RHJheWdROGJBOF96VWFvOEtqNFlFN0FwX3ItWGd2UldLS1VYc2o0UHIwZ2lxVHZOU0t5LXY1WkVIOFNrUU9ycUxrRkxIWVlfQnczN3kzU2xxMDJYY1h4QTBCMk5pcnJlYmp0bHFqcFlPdmNrNEdoaDVCNknSAfgBQVVfeXFMUDB0ZDl4bzduYklLVEFqWHRsMHJOSFNPQjJtejRTemRsNXZIcXVORnZnUkFDUElOdW8zRjNNLXJlV29JSEhxRk1tRU9IUF9yaGlsSGQ2aERWZlQwRlJTRlJqclpHTE5XUVNFUkRPUWFEMlZZMUlOcDlvUEJNNUtneklIRUN3RVVYb3FiRjViN1ZJS1A3dWJlRldNYWpacDBIVjZfRlloeUhVYS1adjdjYWcyNGcxWWRhdlEzVVNWY0IycWhKTmVGU19vZmtlNHhtLU5XUzZmRjRtMjZhdUJQdGJHTVhnaXd6Tm5LRGMxYWl3dHNEN243S3c?oc=5",
-      "source": "The Australian",
-      "date": "2026-07-08",
-      "summary": "Capitalise on AI as it keeps global economy afloat &nbsp;&nbsp; The Australian",
-      "categories": [
-        "investments"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-capitalise-on-ai-as-it-keeps-global-economy-afloat-the-australian"
-    },
-    {
-      "title": "Dock workers demand 28-hour week as AI threatens jobs - The Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmZiNUdVb08yMWstbmNtd0RPbHNMUU9fWWZ6MkJhdVoxc3d1dWRrMFNyeXB5bGc1d2FkZnRHNVdtODRJbkNLd0JEYVRjM003WUExMWFCZ3hTY1hZMXJuZE5Ca0Y3QkIwZVc2TTJEbk9mamQtM0ZLdU1XVWNyV3RSR0JWR2NCUVlnWFQ4Y3VtSFBrMFBVcnBHbThvcmR1ZWFFbVloLW5ZN0NWMjJUdE52RmZXbEZna0dZa21yVklGcWE?oc=5",
-      "source": "The Times",
-      "date": "2026-07-08",
-      "summary": "Dock workers demand 28-hour week as AI threatens jobs &nbsp;&nbsp; The Times",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-dock-workers-demand-28-hour-week-as-ai-threatens-jobs-the-times"
-    },
-    {
-      "title": "AI and the First Principles of Thought - Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzBPMVNyTTJOaENVb2Z3T3QwMXhKdzFZY1VLMUFHUzBZMkhaRFMyLVhuM3BhbkRzRGIxbFB0ZmtQLUVuSkRPSldKOUhEU29Zc1cyY1Uyekk5SThGdTNFRnJBX3Y1YXVKN05FV1dVMWZJeDVvZXBBWVhLZm9sMl9mQ2Y4QzZ4WE9kRXAzRXlXZ2JFYkh2T1p3VG5MdkpCaWR4elpXNQ?oc=5",
-      "source": "Psychology Today",
-      "date": "2026-07-08",
-      "summary": "AI and the First Principles of Thought &nbsp;&nbsp; Psychology Today",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-and-the-first-principles-of-thought-psychology-today"
-    },
-    {
-      "title": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0ptYU8zWm9JNDV2dXRsaHh1V2xnekNyakdBMHdPWV96TExVNElNRlJPa3UzSHJEMl9GZ3UzeC1XdUFZUWpsRmxDUnFUTncxSEE4N3RlTGVDcGZKRzJHeFNzellGMnJ5c3BldXRwN1AwdXF6c1YtWUpnYlE4b19ubzZqSEEyX0ItUUVMT3YxZDViQU1pNWhqdDhtS2xUSnNzQ3UtVndQbmdBdHdnaU1xSGNnRlJlNUMzcm9MdXNmS2xQMWRSLW16a3NNSkM?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-08",
-      "summary": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley &nbsp;&nbsp; The Guardian",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-datacentres-are-a-ticking-time-bomb-we-must-make-sure-ai-s-benefits-outweigh-the"
-    },
-    {
-      "title": "Infopack: Australia AI and Commerce - eMarketer",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95czlZNExmcVlYc0VXV3BaYWNuSkJmWm5Faks0TnZNWU42S0JQUEZyUkNqZW1VNXU1WWRkWE1HS0Y3RDRoRk14UnlWb0F5QkdWU2w0RFJUX0c0ZjdoQktrVVozRVJsWUlTQXNTajh0bURJZw?oc=5",
-      "source": "eMarketer",
-      "date": "2026-07-08",
-      "summary": "Infopack: Australia AI and Commerce &nbsp;&nbsp; eMarketer",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-infopack-australia-ai-and-commerce-emarketer"
-    },
-    {
-      "title": "Taihan Cable & Solution wins Australian order for AI data center power grid - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFV1WG9wOEM1U0ktbGE3VGxxdllsdE9DVDF5T2lXc0NDUWF2cDB4amVWajdMTkxMbWVQT19yZU85MG9BbVZGdDVvVnJsTEZfZndTQmx2Rk83bllfQWRXSWdSTHZsR1ZFVFJUbkp6d1dTODhoell4bFR5MVR4dVpyci05bUxaMnpvdENKNjRydXFJVTF1U2M3Y3NCLXcydlNMbVBLYS1XNDJfMXZaRS1tV0RlTExUZTVRVndtN29STHBhcjJ6dmtfVDFB0gHPAUFVX3lxTE10MU14YTBDT2Q4LUpKVGhhZklvUFpTN1JOeXlvOHMzS3hkRjNlYWp3SWMzYjdsRS1vX1RweXZnXzNFMzA3cHNYVVpwelo1ZkliNGIxWHdpSUJzWl9BZ2FYTEF0a0lNNk9XejQtUlFhRmMtTjQ5UHJsVHA5OE9fQ0hTaW1jUXF3YzM2ZGZsX1lJSERmWUNLZlhTQ2ttaTA0YW0zbW0xV1p4Rkk4d0xGazRiaGNhZWpSa0lqeXJQXzFNVWFPMHJibHl5aGFuZklqbw?oc=5",
-      "source": "The Korea Times",
-      "date": "2026-07-08",
-      "summary": "Taihan Cable & Solution wins Australian order for AI data center power grid &nbsp;&nbsp; The Korea Times",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-taihan-cable-solution-wins-australian-order-for-ai-data-center-power-grid-the-ko"
-    },
-    {
-      "title": "Australia’s National AI Centre lists Microsoft Copilot training sessions for workers - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wQzhNaXNpWl9kcEs3WHNMTHo3SXRvcExqRTlHbXYtODJ2R2JtcU9MY1pQX3R4UUFDVVVjWDM5dnk0VWVLdU4yM0dNRTlNMVQtdXRjcVdCMDBDNGhLU0JlS3lOalhxa1Y3NXVhRzhPNHU3ZHhqRGpTZ1lpbkNJdw?oc=5",
-      "source": "Digital Watch Observatory",
-      "date": "2026-07-08",
-      "summary": "Australia’s National AI Centre lists Microsoft Copilot training sessions for workers &nbsp;&nbsp; Digital Watch Observatory",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-s-national-ai-centre-lists-microsoft-copilot-training-sessions-for-wor"
-    },
-    {
-      "title": "Zhipu seeks $4B in Hong Kong share sale after AI stock rally - Invezz",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3lpd2NEN3hKNHFlN0RNbXRDQWduak5WY0xnakp5QjV1eEJZZlZwZmhOM2YtNnBhZWswT2pfMF9ibUN0OThXemNQYWxpYWxNU0lUTnhrVFFWeUlneXV2RnQybkR2ZjI4N1ZneWdXc09lTFRITlVNdmZYUlB0b1BQLUpDaUY2TFhEZjVHbHZaU1RiR0xRSU4zR1B6bGpMbGVTZlE4OXFsQQ?oc=5",
-      "source": "Invezz",
-      "date": "2026-07-08",
-      "summary": "Zhipu seeks $4B in Hong Kong share sale after AI stock rally &nbsp;&nbsp; Invezz",
-      "categories": [
-        "investments",
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-zhipu-seeks-4b-in-hong-kong-share-sale-after-ai-stock-rally-invezz"
-    },
-    {
-      "title": "Fears AI in politics could misinform, leak private data - The Canberra Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVg0ZEFkSnhIa3RNSWJwMDZ1WE92enR3TzZFVU8tT01IWkF0S2ZPam1SM0hBdGVGSVJUcklzdjZSSjR2N3dyWWZqTjdxdXFaVE5QNnJ0VXhseElxbzRHWmRkUnRWS3ZuOXdlQTVBUk9pV3AwZ3pkNTZwLVdydWM4MjVYT1VQRmhxa2wxcWlVRDljbUhMRTFKa1UwYWhVd3BmXzh0Zg?oc=5",
-      "source": "The Canberra Times",
-      "date": "2026-07-08",
-      "summary": "Fears AI in politics could misinform, leak private data &nbsp;&nbsp; The Canberra Times",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "ACT"
-      ],
-      "horizon": "now",
-      "id": "gn-fears-ai-in-politics-could-misinform-leak-private-data-the-canberra-times"
-    },
-    {
-      "title": "AI not yet driving large-scale job loss in Australia, department says - The Mandarin",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdjNzTzZJN1JXNmtEbGs1MlNWSjdsNDFxcFMzSnlKSF96WWg0UTdFY3AxUm9nVmpjcGswOFRtRXhWT21MMDV4UXhNNVRzblZqNVgza1o4UGswVU56TTM4T2NFdzQzRUh0cVd2MFVSVlNKYU01ZEhRNEFHbDRzdEs5TXFZanVEYkxtOUNvRFB2V1lzSWowRFRxcEFjS1E3dlZnbXRUTVVNRnFPYnM?oc=5",
-      "source": "The Mandarin",
-      "date": "2026-07-08",
-      "summary": "AI not yet driving large-scale job loss in Australia, department says &nbsp;&nbsp; The Mandarin",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-not-yet-driving-large-scale-job-loss-in-australia-department-says-the-mandari"
-    },
-    {
-      "title": "Economy is riding on AI, IMF warns - The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPd1NMYU1MZ1djU0dobXQ1dWdRVXRlYk5qekpheHRyVnBIYUNkcm5rdDdlZUlVSFVXcEYtaWpOYmMwR1VKSnhxRDJESnNvcE5iTmc1QU9LRkpGaDd2NkFBdXppelliM2hXVU5EY2xOT2taNWtPbFZuSUppOE5ONjBHbXk4MWZYVnBvNWI0RlZ3SFBJbkFTYTU1b1duTnlheXFHMlpSUHExNUFkQU1TX3V3Y1RnT2ZqTmd3NXJSVTQxZnkxX3RNNGlyc1gwUVVLc2RhalljRWRkUEF2TDk4Q2tZRWR5YUUtZXhQTFI1UlI1X25DZGpv0gH6AUFVX3lxTFBPV0M3LXcwNkg1RXJDcktfSzJLa1NhbVB3RDlQWDRxTk4tdWtpVkpxaFVZNEt6cVR2QWlxVWJSQWREVnhtMWxueWNsUHNtTUhWcFRtaVJqOEdrNGlmZWdRYXFGYXM4QVJua3FRVnVRcnRlVlFWZG5ZQlpxY0ZzWGh2d2gyNm1pUGYyVWo5YjNpdDlnRDRPLWtiT081LTRBZXIxRS1jTnFkaDVzTmZHSlJFMTZuNVExdkszWEJFb1A3M2t3ZVdnV25KYmlmMjVNWHozVWNrNFpfTnlPUmNtbkwtQk5ybEI1UmxWVkRpa1A1Wl80eVJjbGNLZUE?oc=5",
-      "source": "The Australian",
-      "date": "2026-07-08",
-      "summary": "Economy is riding on AI, IMF warns &nbsp;&nbsp; The Australian",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-economy-is-riding-on-ai-imf-warns-the-australian"
-    },
-    {
-      "title": "Economy caught between an oil shock and an AI boom - Michael West Media",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmV5WGpXeThoZzVaVUJqZTJlMVFkQ2RqOGhpWEhBZDFiZFpneUxVQWNJSUpqdXJSZ3B0d1J3LTdkWFhIN1pRRVpVSFFfNlFIVTlLeGs3bGs0UnZ3YmpjdWwtOV9FdU42UWZVWjVWbWdhSHpreDdJVU9WSUVlMlhzSU5wZmo?oc=5",
-      "source": "Michael West Media",
-      "date": "2026-07-08",
-      "summary": "Economy caught between an oil shock and an AI boom &nbsp;&nbsp; Michael West Media",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-economy-caught-between-an-oil-shock-and-an-ai-boom-michael-west-media"
-    },
-    {
-      "title": "V2 AI opens Singapore hub to expand across Asia-Pacific - CFOtech Australia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDNPR2JHTTh4VDk3MFE4bW52OGdTVTFYdXllYURLX2toczIyb2ZJNm5rWnpVZGMwN1M1MkkyX0ctTXVpMlJtZ21pWUdjck04N1BvZXYzeThnd3pYYWZEWEUwVzRuUU5vUU5veFdYRFpNOTNKT0N6WXJ6RFg1aEtaUk11eFBjN29uZks3Ug?oc=5",
-      "source": "CFOtech Australia",
-      "date": "2026-07-08",
-      "summary": "V2 AI opens Singapore hub to expand across Asia-Pacific &nbsp;&nbsp; CFOtech Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-v2-ai-opens-singapore-hub-to-expand-across-asia-pacific-cfotech-australia"
-    },
-    {
-      "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0ptYU8zWm9JNDV2dXRsaHh1V2xnekNyakdBMHdPWV96TExVNElNRlJPa3UzSHJEMl9GZ3UzeC1XdUFZUWpsRmxDUnFUTncxSEE4N3RlTGVDcGZKRzJHeFNzellGMnJ5c3BldXRwN1AwdXF6c1YtWUpnYlE4b19ubzZqSEEyX0ItUUVMT3YxZDViQU1pNWhqdDhtS2xUSnNzQ3UtVndQbmdBdHdnaU1xSGNnRlJlNUMzcm9MdXNmS2xQMWRSLW16a3NNSkM?oc=5",
-      "source": "The Guardian",
-      "date": "2026-07-08",
-      "summary": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley &nbsp;&nbsp; The Guardian",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-datacentres-are-a-ticking-timebomb-we-must-make-sure-ai-s-benefits-outweigh-the"
-    },
-    {
-      "title": "Productivity tops CEOs' concerns in Australia & NZ - CFOtech Australia",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYnhWdzBVem9QZnk3WlBqbDU3T1lhQmRyM1JDN1FZM2JHZmttMVQzd2liY0ExSkpZOWEtb3VQanhwWW82ZkVtbVZXM1ZlYVRuYlhjcVdkQmxfSDUyUEdQX0t1QWZVQURxTEcyRV9EbkVRN05Tb090bVEwM09rai1PVk1R?oc=5",
-      "source": "CFOtech Australia",
-      "date": "2026-07-08",
-      "summary": "Productivity tops CEOs' concerns in Australia & NZ &nbsp;&nbsp; CFOtech Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-productivity-tops-ceos-concerns-in-australia-nz-cfotech-australia"
-    },
-    {
-      "title": "The Best AI Optimisation Agencies in Australia - techguide.com.au",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGZwU3hlZVpRa3N1Z2RMMzZhbDNCRkc3akJJSS1weXBqQ2ZnRjEwNEdjSjIyVHJZT0lTZVVqRlpBYWQtTjdrcFFwVjdLNXpxdUstMWR4SGpoQTZjbFR5aHBKdFBKZ3Z6aWpfVGoyVU9GMnRXOFczd2l6Z2pRVi04clJkSXZMUmlXSTRLUm1ucDAwWHpnWXBMSkpGeGQ?oc=5",
-      "source": "techguide.com.au",
-      "date": "2026-07-08",
-      "summary": "The Best AI Optimisation Agencies in Australia &nbsp;&nbsp; techguide.com.au",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-the-best-ai-optimisation-agencies-in-australia-techguide-com-au"
-    },
-    {
-      "title": "New AI Hiring Data Undercuts the Case for Hiring Freezes in Australia - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEtvSWljVC1IeW5hNVNpS0xod3BYbmlVMEhZU1ZzZzk3NFdkMmRGZks3cU9pWGtWTWxPcDdQNmNuNmdMSXVIalRUb0JHZUxUWTJzdDZjTmdxTEhuNzhDYTBoSmwxWGlfd000QWhZVElwRmVwMmwwY1pYMlFiM0hleUNfMExpN3BVck16QW9lRVoxbDVFV2c?oc=5",
-      "source": "TechRepublic",
-      "date": "2026-07-08",
-      "summary": "New AI Hiring Data Undercuts the Case for Hiring Freezes in Australia &nbsp;&nbsp; TechRepublic",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-new-ai-hiring-data-undercuts-the-case-for-hiring-freezes-in-australia-techrepubl"
-    },
-    {
-      "title": "Green energy giants see $155b data centre boom as win for net zero - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWFZCUDVuVDMxU0hydC1JakNrMmhDeHdNMzExSk5VZHV1RkhUQ3ljbko4UjlGdU9FMmRBVHJvTVU2YlZyVjY1QTlEeVgtUDZSYnFrZjBQaHlMbEVYQ3labGVqaWktdTlEYVBoUDhqQTBDZGNiOUMzLV8wLTFOSDNuMzZweVkxTXVhdWF6cTNfVjRLYW1fNlo1SGhZUW5Yd01Td0VmVFFfQXRVb3Z6X1hXWDh0NVVDNF9OV0lfaGZDeWxGV0Nvb1FsaVlR?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-07-08",
-      "summary": "Green energy giants see $155b data centre boom as win for net zero &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-green-energy-giants-see-155b-data-centre-boom-as-win-for-net-zero-smh-com-au"
-    },
-    {
-      "title": "Data centre boom drives national construction labour shortage: Turner & Townsend - Green Street News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkRYcGY5SE9QMWg4SFUwVWt6RXh4djRrUVRXb05fRkt2WTFveVJlRjNreGtoZnJkdVU1S2t1WnduVzJieXZUYU5hTE9PbVlSaUwzZkJoYUdoY09XVVduX250eUFCSDktZThnRWdJU0prSTE1Uk5WeWk5RF9Hc2lQUjdNSFZmbDF4bFVTRWhuNi00UVRmT2twdndwamowNlhoRFJzNVE0djRzWVdUSFZPaTRCOWI?oc=5",
-      "source": "Green Street News",
-      "date": "2026-07-08",
-      "summary": "Data centre boom drives national construction labour shortage: Turner & Townsend &nbsp;&nbsp; Green Street News",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-data-centre-boom-drives-national-construction-labour-shortage-turner-townsend-gr"
     },
     {
       "id": "seed-nsw-pipeline",
