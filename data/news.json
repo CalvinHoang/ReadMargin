@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T12:55:45+00:00",
+  "updated": "2026-07-17T18:48:01+00:00",
   "items": [
     {
       "title": "How Australia’s AI Infrastructure Boom Is Reshaping ASX Opportunities - Kalkine Media",
@@ -332,6 +332,51 @@
       ],
       "horizon": "future",
       "id": "gn-ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-nat"
+    },
+    {
+      "title": "Can Anthony Albanese be trusted to negotiate on AI? - The Saturday Paper",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzdVdzFaVFFYVWtJaFpYQ0N1MHFSYjQ2YnpCYS1Oc1I4Nm9tN1J4cUNFbXlnOU5xU2wzR055R05xOHRhbzFlbVc2akw3Wm9venNlczVzQk1mMllKaTZXWVRKWW1Vc1pGNnV5TUtFMkNnZTVBRUFXbXUxMWlYczRZbkhNTHBhYkpKTWplR29zVXBES0lobFk4aW5FUE1iMk42dHY1RHhZSU9Kc2VW?oc=5",
+      "source": "The Saturday Paper",
+      "date": "2026-07-17",
+      "summary": "Can Anthony Albanese be trusted to negotiate on AI? &nbsp;&nbsp; The Saturday Paper",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-can-anthony-albanese-be-trusted-to-negotiate-on-ai-the-saturday-paper"
+    },
+    {
+      "title": "Australia's Prime Minister Vows Artists Will Control Their Work as AI Reshapes Creative Industries - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQWJTQnhvWHJPOC1yb3RXQ0R4N2hIR1dlRFhWX255dmZCalFIUlhKM1N2N01hMEhLLTRmSjh0ek5BQnFlZ1JUMmRhVFBhQUR6OU1BY0pjcE1HRHpnblgzaFJHczZibkxpaUh0WTlOaGZGMi1OTEFvYS1PelBTMnpoOVpSRDNNNk9tbVRNZVlJbzBCcldZRnBGLU8zSXdSZ3hNb2FtYkVzN1JpcFdoUEEzSzdRUVdmNHN1dnJ2MEJ0RXNSc1JHTUg0T1NnUVNGd3RCblE?oc=5",
+      "source": "Law Commentary",
+      "date": "2026-07-17",
+      "summary": "Australia's Prime Minister Vows Artists Will Control Their Work as AI Reshapes Creative Industries &nbsp;&nbsp; Law Commentary",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-australia-s-prime-minister-vows-artists-will-control-their-work-as-ai-reshapes-c"
+    },
+    {
+      "title": "Macquarie Data Centres’ Plan for Sydney Tech Campus Revealed - Data Centre Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFRRRWFBZVlkRFB4OHUxODZjZ3RkbnRyMEN4RmswYmZFV1FaXzlaSTdGSWNxQ2RDN0Z2eDVCNXdrNC12SjRLSUdLVWt1SE5FeGlieXpSdE5sQW5LZHo0R3h6RWVjR0VZYXk5YlAxSUZ4ZktweXpPMk5UOVowLXFtQUFYYVlmLVZiVndCb0JZRDVCLXg2cHV4OGY5TQ?oc=5",
+      "source": "Data Centre Magazine",
+      "date": "2026-07-17",
+      "summary": "Macquarie Data Centres’ Plan for Sydney Tech Campus Revealed &nbsp;&nbsp; Data Centre Magazine",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "NSW"
+      ],
+      "horizon": "now",
+      "id": "gn-macquarie-data-centres-plan-for-sydney-tech-campus-revealed-data-centre-magazine"
     },
     {
       "title": "Missing piece in PM’s AI speech was sovereign capacity strategy - AFR",
@@ -1602,6 +1647,21 @@
       ],
       "horizon": "now",
       "id": "gn-left-behind-regions-at-risk-on-rush-for-ai-uptake-the-canberra-times"
+    },
+    {
+      "title": "Calls grow for urgent rules to curb AI data centre rush - aapnews.aap.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3BJZ01yVUliYmdsQVRKVnBzTGZ2WmZnSElZVTZRRS1YU2F2RXFTbjI3YmZWZXM2LWdmdnJKb1EzR2FoVHdEYnc2cGpGWDRCZ1Yyekk2b01pNWx0N0s1MlhQbU82M0dfcGl3bmdENTBpTEprWnBZcVk2d2hDb29ocVQ2QWg5Y0tZWXpR?oc=5",
+      "source": "aapnews.aap.com.au",
+      "date": "2026-07-16",
+      "summary": "Calls grow for urgent rules to curb AI data centre rush &nbsp;&nbsp; aapnews.aap.com.au",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-calls-grow-for-urgent-rules-to-curb-ai-data-centre-rush-aapnews-aap-com-au"
     },
     {
       "title": "Australians are using tech while fearing it, nearly half unsure if content is AI or not - Mi-3.com.au.",
@@ -3712,66 +3772,6 @@
       ],
       "horizon": "now",
       "id": "gn-arm-hub-maps-practical-ai-path-for-australian-factories-it-brief-australia"
-    },
-    {
-      "title": "Australia to enact laws to govern AI - Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXJaeHJyUlVqOS1SUUVnZGtiWVZQZWdmcjBRcWlwSWFlazdqT2V1Q1daNTgwdzh6NmUtNjRoOGtPNXFkbU5TS2NBUW1IRWVfRzZJVWFmcmN6LVBXX201eDNtWjQyS3V2cUJyXzBLX2pVcFk1QWx6Mnc5YjIyc29LTzJzZlRJVjBydFhV?oc=5",
-      "source": "Japan Today",
-      "date": "2026-07-15",
-      "summary": "Australia to enact laws to govern AI &nbsp;&nbsp; Japan Today",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-to-enact-laws-to-govern-ai-japan-today"
-    },
-    {
-      "title": "New AI standards to reshape data centre development - mhdsupplychain.com.au",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWV9ndjZhbUhFVWZhcVpZZHBDMDVESzJ3SmEycVoydlpLMlVnYlJMX09UNktnRzF0VkdFYUZnbVkwaXNRZEhGWjA5T2tfX3NJajFUd0J6bWkyWTlEMzNfOUFpSFozMkZTb3pTejVOd1JyTjV0ZWUycWxVNzhoU0UwSG9iYjZnU0dZYnJQc1RSMUlMaXFKWVgxWA?oc=5",
-      "source": "mhdsupplychain.com.au",
-      "date": "2026-07-15",
-      "summary": "New AI standards to reshape data centre development &nbsp;&nbsp; mhdsupplychain.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-new-ai-standards-to-reshape-data-centre-development-mhdsupplychain-com-au"
-    },
-    {
-      "title": "'Pretty dopey' push for data centre moratorium slammed - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUotYmNKV0hXVnpHSGRVTWpEVzU5SGZlRUMweFJsek4xOVMzbzN4em1CakJSREtfdjQ1T1drM3FFS0xvdW9TVG1LT0pDMGRXUnFVZ3VMWWl6UFk5dkVIbFZ2R0thRDVPVGRMcTF2djBSdkF1YXlHVzU5N1JtWkxQSTRB?oc=5",
-      "source": "Yahoo Finance Australia",
-      "date": "2026-07-15",
-      "summary": "'Pretty dopey' push for data centre moratorium slammed &nbsp;&nbsp; Yahoo Finance Australia",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-pretty-dopey-push-for-data-centre-moratorium-slammed-yahoo-finance-australia"
-    },
-    {
-      "title": "Has Australia's housing market priced migration but ignored AI? New report examines the risk - The Indian Sun",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMm83TXNqdXRLUXVYX2Fxd1FEb0JGd19SZllsbTZ2UHhiTlFBNzlubDg3WXMtVUpON2FrRjZhdDMtWkRDdEZPeG8tY0VWZjY3Y1FpeHhpb1lGTmJ6N1NIT01NNjYtdzA2Vmkza3RDaGNuTkhSMGg5dXQzblBobHpTODIta0s1OUpEdDdQOVZiYzZjZzNLZHVsbDYtWHVqMW4yX2xXR1hhbjJ3RVJ0UDUycVhzUHR5ZDFhcWJUSk9qVVpFOHZuQ1VraDNwX2tKYlE?oc=5",
-      "source": "The Indian Sun",
-      "date": "2026-07-15",
-      "summary": "Has Australia's housing market priced migration but ignored AI? New report examines the risk &nbsp;&nbsp; The Indian Sun",
-      "categories": [
-        "markets"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-has-australia-s-housing-market-priced-migration-but-ignored-ai-new-report-examin"
     },
     {
       "id": "seed-nsw-pipeline",
