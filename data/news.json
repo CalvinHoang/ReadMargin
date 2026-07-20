@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T13:41:23+00:00",
+  "updated": "2026-07-20T19:19:47+00:00",
   "items": [
     {
       "title": "Campus chaos leaves youth exposed in brutal jobs market - The Australian",
@@ -392,6 +392,36 @@
       ],
       "horizon": "now",
       "id": "gn-australian-organisations-adopting-ai-faster-than-they-can-govern-it-sap-research"
+    },
+    {
+      "title": "Simpler is smarter: AI is making workplaces dumber - Herald Sun",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRHJYbFFzYWcwdU1ETTV6ZER6UHV5MkNJSHB5dHhmVS0wSENnZnY5ZTdjZ3hic18yMzY5NjVFZHhDdndwcFZrUk8ydjRaT0RzTlB6akpQNXlxUmRWWEd4Y1k5RERGckkzYzh3bTNhYmVqQ0FPcno3REtmMEVEeWxjOUhzaWxLTC1wSThVSEc1UkRITHp3bXhIX3d5ZUdsZjJVSEV6dW1CR3hxQmZKclZSTzZ3RzRZOXlTWFdwaHJNd09TMko3eHhDQ0NUYWliZmpjRXFiLWpJMTBvZVZrTWdpRmVFOE94MGvSAewBQVVfeXFMUEZyV2tPQnd5M05NX1RvN1hTYXo0MjhmSW5NQ3RJV3R1S3JnUE1zd20wYjBVdERfLUR5aE1nY3ZjMlpwTXpFUktNMHhfQUxpZGs2Z1pCamhjbVlhWWsxb0dmTG5SbHRzV3ZPblFsVmVwbmtpb2dLcnBYU2FEOHA2TXl2SFlVWlNIQmhpQV9KM2d4WGlhZnFoX1lpcjlNc0NYdi04UllzcjZpRk0weVRMRmhXcjJocU83NFM3Rk9ZR1l0QkdyeG9wMnpqTEUxMi1KbGZyTXF3cUl6NlBsellBSDU5a1YzSFdTT3Z6dXg?oc=5",
+      "source": "Herald Sun",
+      "date": "2026-07-20",
+      "summary": "Simpler is smarter: AI is making workplaces dumber &nbsp;&nbsp; Herald Sun",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-simpler-is-smarter-ai-is-making-workplaces-dumber-herald-sun"
+    },
+    {
+      "title": "Tech wreck or tech correction? Why stocks are shuddering - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZkRQajV6aEgyWEJrWTlhODk5Q011N3hqTXF0dHRfZ0tEcXpDd2NTcVJmUzNBelRtMU43eXJ1a08xaWFrNy1LM01ySVdRZTBOZ190amNIbER1VkE0ZWVSMVJHS0NDUTJ5clRPSHFxdmhhajc2cE44N0taRWpsbXExcGtkRHJRUkp4c3RsQ3cyamNnZWxJdVEzeXJqOGtMQQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-07-20",
+      "summary": "Tech wreck or tech correction? Why stocks are shuddering &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "markets"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-tech-wreck-or-tech-correction-why-stocks-are-shuddering-abc-news-headlines-austr"
     },
     {
       "title": "‘Most important technology of our lifetimes’: Labor unveils world-first AI standards - Sky News Australia",
@@ -1026,6 +1056,21 @@
       ],
       "horizon": "now",
       "id": "gn-green-energy-mandate-means-data-centres-won-t-be-built-afr"
+    },
+    {
+      "title": "Australia is making humanoid robots in the midst of its AI reckoning - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1FaeFdoZHR3bkk4VkNMcjFRcDk1OXhILUY0aUdsbk1Rdkg2eDA1VDA2VTNVNW45UFRiX2doaVRtcmpHY0NVdk5JUzExWjBDSXNPNjlzZS0zY2t3ampNRkZXRGpPMmRQLVJrSnVhVk1Nc2FrdE5lem5LcDE2cGo4N1JzNER0amJUMnRmYTZxM21rMUdUNW1vbkFialFyYmpyLTJPa0pSY09udTVEbFdJ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "date": "2026-07-19",
+      "summary": "Australia is making humanoid robots in the midst of its AI reckoning &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australia-is-making-humanoid-robots-in-the-midst-of-its-ai-reckoning-abc-news-he"
     },
     {
       "title": "Can you spot an AI deepfake? Researchers say they can train people to tell what is real and what is not - 7NEWS",
@@ -3730,51 +3775,6 @@
       ],
       "horizon": "now",
       "id": "gn-australia-unveils-ai-laws-targeting-data-centres-and-copyright-trt-world"
-    },
-    {
-      "title": "Australia demands AI companies must produce more energy than they consume, stop ‘theft’ of content - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb2p0dDJEQjFmV1h4QmFTZ0k4LTJJc1hLWS04Qm1md2pnUXFhaXk1RU5SbzBybUhFaHFBOVAwOUVQanBjVzFkR2RUWkNPbGZfakE0WTBTdmNCdUhaYm9qelh2eXFDakg3RGdONmFNQlNqZUxrYnRnLWFLNG5BaG9ESi1OSnh4U3VLa2hMLU02czhscVkxem5idmM1NXVULXYteWIwaVVybG1sVWwtUzdicThNNkVHVGNMWVh4NXBVRkswbG1FQU5rSjdsSTZJUURMOW5tNnY2M3Y4bXppaHJuZkhGMWxfdGM?oc=5",
-      "source": "The Register",
-      "date": "2026-07-15",
-      "summary": "Australia demands AI companies must produce more energy than they consume, stop ‘theft’ of content &nbsp;&nbsp; The Register",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-t"
-    },
-    {
-      "title": "Government backs creators in AI copyright fight - Limelight magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlVrei1HUGxnRXZpWUhsTThDN0hyOVJEa3JoR3FLNl9wVkJzeUN6bmE3Z1JiZlRmQzFXdWtkcTAzTGNiYk4yV0pkellETjNta1cyUXVfOURTamlsWnlLYnRwZXg1NVF0ZFl3cE5tVDdaM0dvMGlpZUEyUVZFV3hvM3JrMXhzUTBLWGlZ?oc=5",
-      "source": "Limelight magazine",
-      "date": "2026-07-15",
-      "summary": "Government backs creators in AI copyright fight &nbsp;&nbsp; Limelight magazine",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-government-backs-creators-in-ai-copyright-fight-limelight-magazine"
-    },
-    {
-      "title": "AI In Australia's Interests-Prime Ministers Statement On AI - Sydney Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVo1dXhfTnpIMjVtR1h0NGF4ZkRwcUR1eHB6R01CTkQzRGVwLUFCWV81U04wV3RBN2hpUlczS3pkdmt1WVlZcWYydWRTeVhFOGZFVjh1ZUxXTXBUOVg3TnhkSGhEcDNxd0VsMFF1N2JTbUtGcmlpSnpiSVRyVmVEVUI3YTZ1aDFYUzhGdlIwTkJxUnhtdF8yMGE0cGx3SHVZM1ZJbQ?oc=5",
-      "source": "Sydney Times",
-      "date": "2026-07-15",
-      "summary": "AI In Australia's Interests-Prime Ministers Statement On AI &nbsp;&nbsp; Sydney Times",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "NSW"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-in-australia-s-interests-prime-ministers-statement-on-ai-sydney-times"
     },
     {
       "id": "seed-nsw-pipeline",
