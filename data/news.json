@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T08:05:48+00:00",
+  "updated": "2026-07-23T13:17:44+00:00",
   "items": [
     {
       "title": "Workforce capability holds the key to Australia’s AI success - AFR",
@@ -256,6 +256,81 @@
       ],
       "horizon": "now",
       "id": "gn-tmx-transform-launches-tmx-edge-apac-s-dedicated-data-centre-industry-solution-p"
+    },
+    {
+      "title": "Australian government report warns women and graduates most at risk of losing jobs to AI - Global Government Forum",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWFqRXBSQ0Fjd21wZVVYNGFIMFB0NkV1VDBxa2hvdDNldFZPLVo5dG81NzB2OUxwWkR4UENWR0J6Y29BbVlyMFhNVG96WVZmUU51alhsbTlwdFB1Z3pjWlpRdGxuRDN4ZUFtdVQ1dnV3bGk1TjlyUF80Z3lWSnlUQW5oMjBxR2RDM3FfcFhWeFVXeUJjeXNQekVtTlhTTERYOXhpZHhnRFhMZkhjZmZzRGVmNmw3MGFZUVp5SVIyMVN2eEREbXc?oc=5",
+      "source": "Global Government Forum",
+      "date": "2026-07-23",
+      "summary": "Australian government report warns women and graduates most at risk of losing jobs to AI &nbsp;&nbsp; Global Government Forum",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-australian-government-report-warns-women-and-graduates-most-at-risk-of-losing-jo"
+    },
+    {
+      "title": "AI broke out of its cage and hacked a company. The grid could be next - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWJ0aG40WjdMZUEyT213bk9CYU96TE5nY3Badk5ESl9qcUFLTHJlZU5nMWxzSzYtZG12TW1jWmRqazh3enBtdUt3NWs2SWJnY3FNU19ScnVWR0pvRjJVMnhCUmNlODlzQjdVMUdEMzRiUUZaLWtBM1NwYU0tVzh3cHluRndWSXZGb1h2YVZmSTQyM3h3eUNVbUtTWFV1ZG5ySGJBbHBzYlI1aGlPdVhGZ09scU5YNUNsbkRweTNOeG8?oc=5",
+      "source": "SMH.com.au",
+      "date": "2026-07-23",
+      "summary": "AI broke out of its cage and hacked a company. The grid could be next &nbsp;&nbsp; SMH.com.au",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-ai-broke-out-of-its-cage-and-hacked-a-company-the-grid-could-be-next-smh-com-au"
+    },
+    {
+      "title": "The Business: Australia will face a rogue AI attack, the question is when, says cyber expert - ABC iview",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NR3p6amVHbmppeXI2NmdPV3czYmI1bjl5THpOOHBqN09YY2FiWUY2T3FmZFo5bUctSEhaWXBWVVduTG55YmVhRHZMWEEtLTZTWXpEYTIzQUdXckpI?oc=5",
+      "source": "ABC iview",
+      "date": "2026-07-23",
+      "summary": "The Business: Australia will face a rogue AI attack, the question is when, says cyber expert &nbsp;&nbsp; ABC iview",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "future",
+      "id": "gn-the-business-australia-will-face-a-rogue-ai-attack-the-question-is-when-says-cyb"
+    },
+    {
+      "title": "Firmus tries to fast track SA data centres as Tassie plans stall - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2VMUkJMYjl3SlRBRWFsSUhJQUR5c3VqRXR0QWJkdjJBUU9aNTlYLVFmRmxDX085QllCSXV3UWJFV1pQVnpNNmstUjhRX0lOUXRwUmtXbHgyQ1lkWHhDc1lUWlN4VjA3cV82cHF2ZFlpRmpiWkd6elUtRmhwSHVBeW9hNkJzM2ZhTTVVZlZ4SklSNFdmajI2dWJUZEk5T2tsUF9SUGl4U0xNRVNjTGJKTElTX18tcWM1ZVNWdVZqMmFmR0E?oc=5",
+      "source": "AFR",
+      "date": "2026-07-23",
+      "summary": "Firmus tries to fast track SA data centres as Tassie plans stall &nbsp;&nbsp; AFR",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-firmus-tries-to-fast-track-sa-data-centres-as-tassie-plans-stall-afr"
+    },
+    {
+      "title": "Gas-fuelled AI data centre proposed near Darwin in NT growth push - Farm Online",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME5HU1NGSHN4dHp3QWxCd0RJSF85TG9mb3Jwcmg1ejdDNFFNOThSMjI2ZENwMHI2a3RNNXNFX1UyaDdTZFE4NkI3UHhYdjJPU09uMmlsV3h2M2tuYllvQkFERGxITGxXSExCRnlMRUVDQVUtczlhU3YxRE5laVNhSWxOeFlMQXd4Q280Z0FVT1R3ZFV5ZlRWV2NuRHQtODFHb1NROE8yQWhvdw?oc=5",
+      "source": "Farm Online",
+      "date": "2026-07-23",
+      "summary": "Gas-fuelled AI data centre proposed near Darwin in NT growth push &nbsp;&nbsp; Farm Online",
+      "categories": [
+        "buildouts"
+      ],
+      "geography": [
+        "NT"
+      ],
+      "horizon": "future",
+      "id": "gn-gas-fuelled-ai-data-centre-proposed-near-darwin-in-nt-growth-push-farm-online"
     },
     {
       "title": "CMMI Institute launches AI maturity model to address governance gaps - Australian Cyber Security Magazine",
@@ -1041,6 +1116,36 @@
       ],
       "horizon": "now",
       "id": "gn-ai-made-founding-a-startup-easier-than-ever-but-vc-data-shows-funding-is-getting"
+    },
+    {
+      "title": "How is AI reshaping office demand in Australia and New Zealand - JLL",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXNsY19WZVI1MGZvSWRXbkNwTkVza1BGZzd3Tl9CNjRzVDVSUEQ5Q1FoS29LRlhvdmdjTlhMZllmOG02bVZtbE1PV3ozbFZPVVBXTktpaE5KQ25OZUUtR3hNZ1lPMmZLTC1GRktkV0RnaDFtUHRmQ0xiYTVSNDgtZFZLR21FeEQzRVdNVjZvWHhXQ3h0eVZ4Rk5xcWJpdw?oc=5",
+      "source": "JLL",
+      "date": "2026-07-22",
+      "summary": "How is AI reshaping office demand in Australia and New Zealand &nbsp;&nbsp; JLL",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-how-is-ai-reshaping-office-demand-in-australia-and-new-zealand-jll"
+    },
+    {
+      "title": "Hyperion, ECP headline horror year for Australian growth funds - AFR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2hyc0gtem5rbFE0N0RQMW9ta1YweGZXMVZjekxZdGZ2aDBhMjE2aU55VjBjaVdqbFdEdnlkaFNZei13SUxGZG5ZeWV2TFBnSWFZYUV1Mlg2cm9xTUtZWElXOXhrMjVLeUhCSFAwQ3NDaUFqSXg2U0tubkNTS1VzOENJc2NYNXppRnIycnl5YU9rczhkbm15TFFubDFjbmpLUGNDNDBOTVBwc3lYcUQzUXZINk93UzlNWTNjTQ?oc=5",
+      "source": "AFR",
+      "date": "2026-07-22",
+      "summary": "Hyperion, ECP headline horror year for Australian growth funds &nbsp;&nbsp; AFR",
+      "categories": [
+        "current"
+      ],
+      "geography": [
+        "National"
+      ],
+      "horizon": "now",
+      "id": "gn-hyperion-ecp-headline-horror-year-for-australian-growth-funds-afr"
     },
     {
       "title": "On AI, Albanese wants to take us on the wine-dark seas of change. The people will need some convincing - Crikey",
@@ -3666,111 +3771,6 @@
       ],
       "horizon": "now",
       "id": "gn-australia-s-creative-industry-welcomes-albanese-s-national-ai-framework-mlex"
-    },
-    {
-      "title": "CBA chief economist Luke Yeaman talks down risk of ‘AI bubble’ at Australian Defence Industry Accelerator Summit - Cyber Daily",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDVIMl9xR284aV9SQmFwR3YyNEtidFh5d1pMWFh1S2psUE9xRWk2czZsWGlFc0pzam15X2ZPaEhvMVJ6NUJNdGFyaEYzR2tEUUM1VXJYME54d2NhZEg0NTNfNTBWbDFfdU1nWjRzQm1HUko3UmZyZGxJcWQ3R25QXzR3YzJmRUVvNW5BOGExa29HXzhtRjcwWlVTUWdQd1JONnhuYk5mTlc0ZjZfWTFSX3l2aW9CRi1TcXZWRWJGa2pnV0pLMTQxU0hWZjJLeEF3SU53OGY2N1BJUi0ta3loUw?oc=5",
-      "source": "Cyber Daily",
-      "date": "2026-07-17",
-      "summary": "CBA chief economist Luke Yeaman talks down risk of ‘AI bubble’ at Australian Defence Industry Accelerator Summit &nbsp;&nbsp; Cyber Daily",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-cba-chief-economist-luke-yeaman-talks-down-risk-of-ai-bubble-at-australian-defen"
-    },
-    {
-      "title": "Commonwealth Government announces Australian Standards for AI - Maddocks",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFF0cmQzaUZpWW0zcE9pREtfTzFSUUFacElDa3Y4YXp5TXZ5Z0U1eUxpYldaY1NVT0FpSlFfZGZQZWRNMF94TzBuNFpRQ3kyWUhGWlpIMUJPdWxpenk2em84NTJfRFhnYVhicENlUGxCdTY1NGNfSmpGb2FOdDdES2o4Y3JCdWdBYXNKZEJJZjNJdGdPWnBWdldDaVYwMmlfZ1Q3US1rWUJNdUFfMmptdzI3X1paZw?oc=5",
-      "source": "Maddocks",
-      "date": "2026-07-17",
-      "summary": "Commonwealth Government announces Australian Standards for AI &nbsp;&nbsp; Maddocks",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "future",
-      "id": "gn-commonwealth-government-announces-australian-standards-for-ai-maddocks"
-    },
-    {
-      "title": "'AI Supercharging Terror Groups, Targeting Children': Australian Minister To NDTV - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2hTRXFXdmJhMUZheUxpNjlVR2tCX2pxaVZFVkFuWDFRYXFRenZqTDRCUGhURUNfUzg5NzlhWkZaSVFmai14U0pCQ2pCb2hNLWxaWlVDRGczalJqYlMtaTFQV3d3dGhqLUFCWVFPYzdxSXJsbm9UNjk3UEZ0eDRtRUx1WlNfdjZ0UldOa3prNmVSOTBDcHl0R1BYZm5tN2RPWkZJeTFzM1RoeGFEaGNDeXV3dm9IT21ZQWpJaTNVUEtsZUFRMG9kbNIB0AFBVV95cUxOekRmQTgtOHhjMXFIV1poemJhcjRvcGpsR2RieHE2dm5WbmNsQ1pVZlFaX3pyS0NDWlRUOTBEMFpnU1F1XzJRcWFPc2RSbmJFVjJNQ0NqZEFVWmtYTjBiWGhYbWlVemcxejNfR1dtTGdXcS1KTTQ4TERRc3phSUVGUTlqYWV2Sk82dzFzUExvVlMxYWtYWGdZZDI3M1A0ZlBqSEp1RUJMdnhsbTlHYlc3MzJBTy1JUWZIN2ptMVhwRVJWMFdjUVZTVXZfWDh0MV9x?oc=5",
-      "source": "NDTV",
-      "date": "2026-07-17",
-      "summary": "'AI Supercharging Terror Groups, Targeting Children': Australian Minister To NDTV &nbsp;&nbsp; NDTV",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-ai-supercharging-terror-groups-targeting-children-australian-minister-to-ndtv-n"
-    },
-    {
-      "title": "Is Labor setting up the pieces for a gas-fired data centre boom? - thepoint.com.au",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUJSLWF4SkJsQlczWDFmVHV6ZjRhclZEU082blRId29VRzZBSTJJbFVXM2tYUHM5bEE2X09oaXN1V2RlMlVDeDlCajc4NUNoNXFLeXhhU2dHeFJBUWtGb0RjWmp3Wkh6b0ktRGZUZnczNnJkYWsyN2NQMExyb2FPZXdudG1BVklsdDJIVnlkd3JEY1FVOElFMHBfN1IxRUFIcWdZRGdB?oc=5",
-      "source": "thepoint.com.au",
-      "date": "2026-07-17",
-      "summary": "Is Labor setting up the pieces for a gas-fired data centre boom? &nbsp;&nbsp; thepoint.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-is-labor-setting-up-the-pieces-for-a-gas-fired-data-centre-boom-thepoint-com-au"
-    },
-    {
-      "title": "As Australia prepares for the AI future, its plan for sovereign capability is unclear - The Strategist | ASPI's analysis and commentary site",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNkxabW43WTI3WTFPTG5NOXcySUJpWk9RQXdTbk1DOHh3Q1BMRUZZYzRKczVOSjZYaGNVWkxVOFBvWXRPYWZHTnF6NlVndVJpanVoNHNITFlQalBxd28wUW9pNUhQbDVtOURaSTZKZ2JlYVNpVGFxREVhbTlwOHhWV2JUYzdKOTZGdHRUNGJsUTdVbFF1ZlBFYnJ6YmZBZ09ObjJWV2RGUnZ2SzB2emd4QTZhbldrMjhtNldz?oc=5",
-      "source": "The Strategist | ASPI's analysis and commentary site",
-      "date": "2026-07-17",
-      "summary": "As Australia prepares for the AI future, its plan for sovereign capability is unclear &nbsp;&nbsp; The Strategist | ASPI's analysis and commentary site",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-as-australia-prepares-for-the-ai-future-its-plan-for-sovereign-capability-is-unc"
-    },
-    {
-      "title": "Albanese has diagnosed the data centre problem. Now he must show the detail - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSGRPMm9FMmNhdmQxMlFoamItV2tOZDNUWWVjclNMUzZFRnJDbDdFdkllak5mY1RId0E1VVc0VTZXUk9hcVVBR3Y2VlRyaE1OckZLSV9IMU92aGNOUFpWcWVNQko3MUxxbTFHNXV2WHBIREZseS16MzlqX2VPcjdaSzV1Yk05WXFNWUxzT2tvOUcySVBBUXprYWtMQzhyYWYwX3BxOUtpbkdreGVkdF9abWpEZGJKdlVoUjZBLW9udnY5bWNyQWc?oc=5",
-      "source": "SMH.com.au",
-      "date": "2026-07-17",
-      "summary": "Albanese has diagnosed the data centre problem. Now he must show the detail &nbsp;&nbsp; SMH.com.au",
-      "categories": [
-        "buildouts"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-albanese-has-diagnosed-the-data-centre-problem-now-he-must-show-the-detail-smh-c"
-    },
-    {
-      "title": "Australia sets up Office of AI amid trust concerns - IT Brief Australia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOckZuMU1JOXhTWUdxRjVFRzE1aU4tcUZNaGJMN1JvakQ2M0NFd0tSVnFfcmRIc1hwMFM0SUE1MC1ESjRWYktPVHQ5ZnFQNGxNTkhvOXdYWGdEOGRuM25fb21qSWVUd0N2WTNCMXdweVNJUVRURDV1QnFSQ3plbS1PRDFtUWlSUQ?oc=5",
-      "source": "IT Brief Australia",
-      "date": "2026-07-17",
-      "summary": "Australia sets up Office of AI amid trust concerns &nbsp;&nbsp; IT Brief Australia",
-      "categories": [
-        "current"
-      ],
-      "geography": [
-        "National"
-      ],
-      "horizon": "now",
-      "id": "gn-australia-sets-up-office-of-ai-amid-trust-concerns-it-brief-australia"
     },
     {
       "id": "seed-nsw-pipeline",
